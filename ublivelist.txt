@@ -1,0 +1,1049 @@
+民視,http://f01.pp11000.com/live/26/3b9a6663c4b86a5d9ccd09b17684de58/index.m3u8
+民視,http://f01.pp11000.com/live/336/7a3636b506e5ac245d0338d8683baeb8/index.m3u8
+台視,http://f03.pp13000.com/live/27/f196d269192edd9cca2406cd6533b9fd/index.m3u8
+台視,http://f01.pp11000.com/live/326/adb1d1263bbec5b690229fa9eb05f7e2/index.m3u8
+中視,http://f01.pp11000.com/live/28/8cad83cbb895e6129f6d6845963b785d/index.m3u8
+中視,http://f01.pp11000.com/live/333/1edbf97432c47a635718c6b1d05f6d28/index.m3u8
+華視,http://f02.pp12000.com/live/32/1b24d858bcee81a26e61969c972174b0/index.m3u8
+華視,http://f01.pp11000.com/live/327/547e9c2efd73be0ee025013a697930af/index.m3u8
+公視,http://f02.pp12000.com/live/86/27f98e7224adb77069b65d20d2f0ce45/index.m3u8
+公視,http://f03.pp13000.com/live/361/6072f711e11660ea82e36e643b4a6de9/index.m3u8
+幸福空間居家,http://f02.pp12000.com/live/61/b52f54147f06c61a16e18b97be7673ac/index.m3u8
+好消息,http://f02.pp12000.com/live/104/941ea0d1bc1fd9b89f439da46bc32dca/index.m3u8
+原住民電視,http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/chunklist_b800.m3u8
+客家電視,http://f02.pp12000.com/live/76/4c9aa8226470a981d1283c3aea08cf12/index.m3u8
+緯來綜合,http://f01.pp11000.com/live/340/9282638c338ca894cec4bc3cbc1087eb/index.m3u8
+八大第一,http://f01.pp11000.com/live/318/1543c67f82e9a7f3cb6cd6f58b421f3b/index.m3u8
+八大綜合,http://f01.pp11000.com/live/325/d1ac9b727f97dacb6c7f469f9884ac6c/index.m3u8
+八大綜合,http://f03.pp13000.com/live/90/ada7dd6ff524199034776bc021805ea1/index.m3u8
+三立臺灣,http://f01.pp11000.com/live/21/4c2865222f577a8f9a8535892a1bb96f/index.m3u8
+三立臺灣,http://f02.pp12000.com/live/35/84b51d7cfb541e820ae8003b3f0073a9/index.m3u8
+三立都會,http://f01.pp11000.com/live/38/555ae37d008845896af32d536ab87d6a/index.m3u8
+三立都會,http://f03.pp13000.com/live/1001/dfa4be7cf68c489e992c3071e354f2bc/index.m3u8
+衛視中文,http://f01.pp11000.com/live/342/2158bec984ecf0a5364c1a1b14420571/index.m3u8
+東森綜合,http://f02.pp12000.com/live/372/d168a195ce5fc38bce212bde7566b8ac/index.m3u8
+東森超視,http://f02.pp12000.com/live/80/b920202bd57b0f0efb6f7393b282962c/index.m3u8
+東森購物2,http://f03.pp13000.com/live/1156/1c16729a5263f1dd49b0adc7d3f0562d/index.m3u8
+中天綜合,http://f02.pp12000.com/live/54/e5e26a3fa6c60ca946b8504ecc72a55a/index.m3u8
+中天娛樂,http://f01.pp11000.com/live/324/952c4c630b2926cfea0472774aa0537c/index.m3u8
+TVBS歡樂,http://f02.pp12000.com/live/40/a9cc69bca31023d45feede48a424988a/index.m3u8
+八大精彩,http://f02.pp12000.com/live/1024/f5031cb78de9386fe75ee119740a2ad8/index.m3u8
+JET綜合,http://f02.pp12000.com/live/41/901c4e88d839e3ea4942cf51559a0d35/index.m3u8
+東森購物1,http://f03.pp13000.com/live/1155/c4a6a779b200435f4a540c25467ece37/index.m3u8
+TVBS,http://f02.pp12000.com/live/88/00b5dd6b5d72c20a0caccf7649028e0f/index.m3u8
+TVBS綜合,http://f01.pp11000.com/live/16/c1318f94e3bf7f23955cf69e0b16b3fa/index.m3u8
+緯來育樂,http://f01.pp11000.com/live/338/58d99b4e1199853047ace7b59bfb80a6/index.m3u8
+緯來育樂,http://f01.pp11000.com/live/312/ba937616a2c58dfaddab0e24ade072e3/index.m3u8
+緯來日本,http://f01.pp11000.com/live/337/ccf84ac864eca77b6dcd4a209eeb23a1/index.m3u8
+緯來日本,http://f02.pp12000.com/live/46/dc30e5e91807d677a258a3706b37f1c4/index.m3u8
+國興衛視,http://f02.pp12000.com/live/65/63f9f77f31d6d7b836d376f4bccec867/index.m3u8
+信吉電視,http://f02.pp12000.com/live/422/f2a0a226aef1523930afadf2509ff521/index.m3u8
+壹電視綜合,http://f02.pp12000.com/live/305/f9f9c125281c930f4cfd33831553d726/index.m3u8
+八大娱乐,http://f02.pp12000.com/live/105/c559ed91ab12fefa5fa1c771e434b3d2/index.m3u8
+公視3台,http://f03.pp13000.com/live/1340/cbe22109b7d8a18d2b1b1733df6b49ee/index.m3u8
+好消息2,http://f03.pp13000.com/live/363/5814a9ed55bcda97d7eb93a2cf8459f7/index.m3u8
+高點綜合,http://f02.pp12000.com/live/99/1c2f5921b4786ccbf03aeb6ee4fa502c/index.m3u8
+中天亞洲,http://f01.pp11000.com/live/322/dbd44a45009bce932cd54784c55c1d72/index.m3u8
+民視綜藝,http://f02.pp12000.com/live/98/d8786bcf39cb8acf3f71c7bcb66d0f1e/index.m3u8
+民視第一台,http://f02.pp12000.com/live/34/2e27177bb4f8fbd781049b883ee12e86/index.m3u8
+民視台灣,http://f02.pp12000.com/live/36/bdbd952a534651a3669db39c8dd3e34d/index.m3u8
+公視台語,http://f02.pp12000.com/live/58/a0466924b491d51cd918f96daeee8d66/index.m3u8
+龍華偶像,http://f01.pp11000.com/live/347/60e164d38175df906e9086570ecf3c08/index.m3u8
+龍華日韓,http://f02.pp12000.com/live/382/911eb2a316029d96846771ce9c09c1ca/index.m3u8
+豬哥亮歌廳秀,http://f02.pp12000.com/live/75/36efbfba20b18144ab5990c3170ce6ef/index.m3u8
+ELTA娛樂台,http://f01.pp11000.com/live/351/d8ae2c5cb1eaf9077e9df62187f61049/index.m3u8
+韓國娛樂台,http://f02.pp12000.com/live/73/ce56bd8e3326846fe779d3b9fc505f19/index.m3u8
+星衛娛樂,http://f02.pp12000.com/live/89/c99fbe47cbfb6b81d95d2ac889dd9428/index.m3u8
+靖天國際,http://f01.pp11000.com/live/345/d35d21169cfec55ed019928bdf0bc561/index.m3u8
+靖天育樂,http://f02.pp12000.com/live/1029/9434d1bb08fa5dd7c52d8e4370d7e50a/index.m3u8
+靖天日本,http://f02.pp12000.com/live/108/efa693d099559b948de3a629275371c1/index.m3u8
+靖天歡樂,http://f02.pp12000.com/live/51/a34a5ae491ad8714d2a940f90c729b31/index.m3u8
+三立綜合,http://f01.pp11000.com/live/315/ca00c8db5331a3880320bec7cc051203/index.m3u8
+靖天資訊,http://f02.pp12000.com/live/49/fd4d5d1ddf7ad8d7b8092a6061910728/index.m3u8
+靖天綜合,http://f02.pp12000.com/live/308/110c9aed1639e1a3809ddcb5289e0c6e/index.m3u8
+靖天娛樂,http://f02.pp12000.com/live/1589/4800119145ef5b61052fbcd53f31663b/index.m3u8
+中視經典,http://f02.pp12000.com/live/185/ca2cff68716d850254d5e86ad041e04d/index.m3u8
+寰宇綜合,http://f02.pp12000.com/live/190/bee78a9c6a27e70a389c6f63d90159e7/index.m3u8
+中視菁采,http://f02.pp12000.com/live/74/03667629d3ca42a8d00d6e27b858e329/index.m3u8
+TVBS精采,http://f02.pp12000.com/live/66/05af824efbe897327d5c8b41385cf842/index.m3u8
+華藝綜合,http://f01.pp11000.com/live/310/98cae944e6537e31271f5fd4e8c1780c/index.m3u8
+年代much,http://f02.pp12000.com/live/1359/b87f8318138127b6d4d6c7a1af55444e/index.m3u8
+臺視綜合,http://f01.pp11000.com/live/309/16f3598861cb6f270c36308a741804a6/index.m3u8
+VTV4,http://f01.pp11000.com/live/341/99adcc5c8987c1c7a27cde48b5a8c593/index.m3u8
+ELTA綜合,http://f02.pp12000.com/live/1137/c5492842f1eea77708e292e7b776b58c/index.m3u8
+番薯電視,http://f02.pp12000.com/live/29/d04edafd6968c6b3189d51eaf1f5b28b/index.m3u8
+TVN,http://f02.pp12000.com/live/1583/20776e1a3431f4b38d29aded0349f397/index.m3u8
+大愛一臺,http://f18.pp18000.com/live/11/ab82d05d5f31a6dc49a9373eba59ed59/index.m3u8
+世新綜合,http://f02.pp12000.com/live/1048/45a6447c812ff2d4d6ac46b8c445ed4b/index.m3u8
+東森購物3,http://f02.pp12000.com/live/1584/6cae69c24ff8aea2998075920dbe1653/index.m3u8
+MOMO購物1,http://f02.pp12000.com/live/1585/94ef663feb205ba10730111060035b08/index.m3u8
+MOMO購物2,http://f02.pp12000.com/live/1586/4609a57cb8ae59097cbad9264f59b76c/index.m3u8
+天良綜合,http://f02.pp12000.com/live/1587/548123d3cedd9f70d4c0324b68477b1f/index.m3u8
+誠心電視,http://f02.pp12000.com/live/1590/bf61aaee470e72a91311cb5cedb891b7/index.m3u8
+美好購物1,http://f02.pp12000.com/live/1591/45f4716956851263ee1389473fc92fd6/index.m3u8
+美好購物2,http://f02.pp12000.com/live/1592/6e6bed1f8fac4f1b2ad8040f1bef4109/index.m3u8
+海豚綜合,http://f20.ub1100.com/live/1505/38aeaf506f6169a3b9abc296bda1d47a/index.m3u8
+大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+TVB翡翠,http://f08.ub1800.com/live/30/66dfdb7d8d11ee8dfc8b0c1be497a02d/index.m3u8
+TVB翡翠,http://f07.ub1700.com/live/390/97c0583a6bde4c55a068defa9e58f200/index.m3u8
+TVB明珠,http://f07.ub1700.com/live/391/be89028735494990b0278c602fa654f0/index.m3u8
+無線新聞,http://f07.ub1700.com/live/45/766ea7fe49a33cd43dd5a7e8cdabfac5/index.m3u8
+無線新聞,http://f09.ub1900.com/live/394/9528cab099ece54b9ed6b7857827f9e0/index.m3u8
+有線新聞,http://f08.ub1800.com/live/395/cdf143da5df87374dcf213dab8f1aa95/index.m3u8
+無線新聞,http://f08.ub1800.com/live/1496/dcb918eee576c6caf23e9fae760f63aa/index.m3u8
+Viutv,http://f09.ub1900.com/live/72/8a0d5f13b268b8bc74b52e5825a7f2f3/index.m3u8
+TVB無線財經,http://f09.ub1900.com/live/393/524ac915014b2a36fc8070aa970cc117/index.m3u8
+TVB J2,http://f09.ub1900.com/live/392/53f7f177a2b4fadeab049021c0966eb3/index.m3u8
+NOW新聞,http://f09.ub1900.com/live/396/eebee83113ecdb780b1581548aa6519c/index.m3u8
+NOW直播,http://f08.ub1800.com/live/400/f62d5b43816bb4e7f5a922fddb17f001/index.m3u8
+鳳凰香港,http://f09.ub1900.com/live/358/59667389fbbc6a6117350066e159bbe3/index.m3u8
+鳳凰衛視,http://f09.ub1900.com/live/357/fb5ff661101290e71dc9e44c7b254982/index.m3u8
+鳳凰資訊,http://f09.ub1900.com/live/359/01ac6ec5fdfd49fe9e4173f7921760d8/index.m3u8
+星空衛視,http://f07.ub1700.com/live/56/2c4796a77eb57a1ca86b0e1f6a2dfa69/index.m3u8
+港臺31,http://f07.ub1700.com/live/353/ed1a034d30688de23851e00205362340/index.m3u8
+港臺32,http://f08.ub1800.com/live/397/575159838526d79eb4202077c99e6da0/index.m3u8
+香港開電視,http://f09.ub1900.com/live/17/859ee695a84f9be62625e54cfce054d2/index.m3u8
+HKC娛樂,http://f07.ub1700.com/live/360/685c2d530c3b8423f6da2ec8ee00bdf8/index.m3u8
+HKC電影,http://f09.ub1900.com/live/354/e33d6e97afec4bc4b5fac7e1a7c343a4/index.m3u8
+HKC體育1,http://f09.ub1900.com/live/401/6d972b4b80bd8ff1ac15eb3352c76bbb/index.m3u8
+HKC體育2,http://f07.ub1700.com/live/356/c3380a31465842258f44c7a9b9d2ea8d/index.m3u8
+HKS,http://f08.ub1800.com/live/399/7d2149cd262b99989ad73b11bf0003dc/index.m3u8
+澳視澳門,http://f09.ub1900.com/live/23/6698a0e99260da67bdbd12f26bd61914/index.m3u8
+澳視葡語,http://f07.ub1700.com/live/24/97f05ede8be53daee207469039cb6dc0/index.m3u8
+澳門Macau,http://f07.ub1700.com/live/364/31badd7f2c5281ba47cdd8425515e1bc/index.m3u8
+有線603,http://f08.ub1800.com/live/398/0cd0e3d1ca2a6ced2e2830970354a579/index.m3u8
+廣東珠江,http://f08.ub1800.com/live/1034/60b1fbee327400a2e21a8ba048ce586c/index.m3u8
+18台,http://f07.ub1700.com/live/44/05a8fcf4c14bd564dfa2cacba9442d06/index.m3u8
+澳門蓮花,http://f09.ub1900.com/live/70/2a2f91deb088ebfbf788632f600fb77e/index.m3u8
+鳳凰電影,http://f07.ub1700.com/live/19/1686e7cab51c85f6e9fe3a0775d66a2c/index.m3u8
+Viutv 6,http://f09.ub1900.com/live/176/b346c66d52655e0782cad42762d8290c/index.m3u8
+耀才财经,http://f07.ub1700.com/live/355/1b8eea4737a887f673a38f27db887431/index.m3u8
+美亞電影,http://f16.pp17000.com/live/375/137603a62a70d5aec2c03696a0803dce/index.m3u8
+爆穀台,http://f14.pp17000.com/live/152/c62dc51c5f211081838b395504166ed9/index.m3u8
+NOW SPORTS,http://f16.pp17000.com/live/1358/b1ce1747f101fea2cea554496b724b69/index.m3u8
+新時代東部,http://f20.ub1100.com/live/1286/9e2f12621fff3cb37582a5dd7cb69412/index.m3u8
+新時代西部,http://f20.ub1100.com/live/1287/6d5e1639049f610af46f780526477f28/index.m3u8
+城市電視,http://f20.ub1100.com/live/1289/239f9a49cf8a7fbb5ac5078453b844d1/index.m3u8
+新時代2,http://f20.ub1100.com/live/1288/580a1656149bffa948593f8360cd89be/index.m3u8
+TVB星河,http://f23.ub1400.com/live/1079/b1f1114e099395a1fae085a0d4a5b927/index.m3u8
+TVB經典,http://f23.ub1400.com/live/1083/fd7cd5faae73b3e5d4d88f48fd14b32d/index.m3u8
+TVB Jade,http://f23.ub1400.com/live/1084/679d0ba01337ae81a2a66efcdb74a1da/index.m3u8
+衛視卡式臺,http://f23.ub1400.com/live/1085/62ca604fd5a0143591d2c42251f77e6c/index.m3u8
+創世電視,http://f07.ub1700.com/live/1317/83002c5b9a9bad1870f4afe4ac37a527/index.m3u8
+陽光衛視,http://f08.ub1800.com/live/1607/703b7e556b38f8babc76b8e27c8a90a9/index.m3u8
+ATV亞視,http://f08.ub1800.com/live/1457/56421bb2cfbba89b2d6bf5236cc77b37/index.m3u8
+嶺南戲曲,http://f20.ub1100.com/live/1502/ca1c48bce8e216d5b3f0594a03cc220d/index.m3u8
+三立LIVE新聞,http://f11.pp15000.com/live/4/31918d3a7eece419bd5625b8fcebfc57/index.m3u8
+三立LIVE新聞,http://f10.pp15000.com/live/1008/fe6f91061af6f9fd92a7724ca57f804c/index.m3u8
+東森新聞,http://f10.pp15000.com/live/9/1e795443bc4bf4de5b9b6dcbd86fced5/index.m3u8
+東森新聞,http://f11.pp15000.com/live/1016/45e96acc2e134c39762e3588a9f02d30/index.m3u8
+中天新聞,http://f11.pp15000.com/live/3/9ca3c9f971318a4e0fed65cb8108afd9/index.m3u8
+中天新聞,http://f11.pp15000.com/live/1002/debfa1929e084c7d8c2701f4e03d01f1/index.m3u8
+民視新聞,http://f12.pp16000.com/live/13/731e784f1f7447b95ee9f7fa04b9fc85/index.m3u8
+民視新聞HD,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609931162/ei/OkX1X-u2ENGqkgaluJ3oCA/ip/198.255.103.14/id/XxJKnDLYZz4.9/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-q4flrnl7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/3640/mh/gy/mm/44/mn/sn-q4flrnl7/ms/lva/mv/m/mvi/3/pl/24/dover/11/keepalive/yes/mt/1609909233/sparams/expire
+TVBS新聞,http://f12.pp16000.com/live/2/5b735d73cec8e084004021e1c176c452/index.m3u8
+TVBS新聞,http://f12.pp16000.com/live/1004/448f9b0681fc918077f5c65844f08a3a/index.m3u8
+東森財經,http://f10.pp15000.com/live/12/a750457fcf5685fb6e3c86bf5694ba9a/index.m3u8
+東森財經,http://f13.pp16000.com/live/1018/9d8edb312e4d5211fafc33a65efc601d/index.m3u8
+華視新聞,http://f11.pp15000.com/live/6/ffac43338f422544bbcd327ffd8b4a30/index.m3u8
+華視新聞,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609931463/ei/Z0b1X_e9HNmAkwb4vp34BA/ip/198.255.103.14/id/-pvROC_MdYM.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r5---sn-q4fl6ns6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/3550/mh/CX/mm/44/mn/sn-q4fl6ns6/ms/lva/mv/m/mvi/5/pl/24/dover/11/keepalive/yes/mt/1609909709/sparams/expire
+iNEWS,http://f11.pp15000.com/live/8/5afa3ae2c5068a337e729f98ee5bb026/index.m3u8
+iNEWS,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609931521/ei/oUb1X4aSLNbCkgar86XQBw/ip/198.255.103.14/id/MYwrZeIsRWU.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-q4fl6ns6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/3590/mh/uf/mm/44/mn/sn-q4fl6ns6/ms/lva/mv/m/mvi/4/pl/24/dover/11/keepalive/yes/mt/1609909466/sparams/expire
+台視新聞,http://f12.pp16000.com/live/1/4bd215eb32e3c63ffbf9f9510843a508/index.m3u8
+台視新聞,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609931462/ei/Zkb1X75dxIOTBoHtvfAN/ip/198.255.103.14/id/xL0ch83RAK8.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-q4fl6n76.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/3590/mh/r6/mm/44/mn/sn-q4fl6n76/ms/lva/mv/m/mvi/1/pl/24/dover/11/keepalive/yes/mt/1609909466/sparams/expire
+中視新聞,http://f10.pp15000.com/live/7/24f02fb39b2240964e1801dfff334d49/index.m3u8
+中視新聞,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609931221/ei/dUX1X_SCH4WBkgb9_oa4Dg/ip/198.255.103.14/id/lSZZ3YRsW1w.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r6---sn-q4fl6n7s.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/3310/mh/2l/mm/44/mn/sn-q4fl6n7s/ms/lva/mv/m/mvi/6/pl/24/dover/11/keepalive/yes/beids/9466587/mt/1609909233/sparams/expire
+年代新聞,http://f12.pp16000.com/live/236/8d11d812d3de7d9827b4179875e43da2/index.m3u8
+年代新聞,http://f11.pp15000.com/live/1099/478f49635e6c057207cddd4b40cee243/index.m3u8
+非凡商業,http://f10.pp15000.com/live/187/65fa0cb44fde141955b013f2a5321557/index.m3u8
+非凡新聞,http://f10.pp15000.com/live/314/89646a24d8da6b3885669b1e84f75b4e/index.m3u8
+寰宇財經,http://f10.pp15000.com/live/320/49100a5f68e3520c194e336cdd979d00/index.m3u8
+DW德國之聲,http://f13.pp16000.com/live/1059/90b7e3526db38613ce2c73eb91659606/index.m3u8
+DW News,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609927582/ei/Pjf1X7TkHJbakgbqm5LICg/ip/198.255.103.17/id/gOoTbPssAo4.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-q4fl6nly.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/3220/mh/S1/mm/44/mn/sn-q4fl6nly/ms/lva/mv/m/mvi/4/pl/24/dover/11/keepalive/yes/mt/1609905640/sparams/expire
+VOA美國之音,http://f13.pp16000.com/live/495/d4601372cc34b8d50e51157877e1b93f/index.m3u8
+VOA衛視,http://f10.pp15000.com/live/22/d5f31a8144781ac6e9dad6d3192f2305/index.m3u8
+台視財經,http://f10.pp15000.com/live/300/6169e9bcfffd25e68fe81657e7a13edb/index.m3u8
+寰宇新聞,http://f11.pp15000.com/live/304/f952de4d5ac4649579880cdfe2a7ea57/index.m3u8
+寰宇臺灣,http://f10.pp15000.com/live/87/7f42b42263c1029b02ba722dc00b0bb0/index.m3u8
+壹電視新聞,http://f12.pp16000.com/live/303/27e192865a7170b846fc5fe98432342d/index.m3u8
+FRANCE 24,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609930343/ei/B0L1X9TQNYjFkgbxtKfoDg/ip/198.255.103.15/id/oaugY_Yn6Yw.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-a5mlrnez.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/11730/mh/24/mm/44/mn/sn-a5mlrnez/ms/lva/mv/m/mvi/3/pl/24/dover/11/keepalive/yes/mt/1609908272/sparams/expire
+新唐人亞太台,https://live.ntdimg.com/aplive200/playlist.m3u8
+THE WORLD,http://f13.pp16000.com/live/1013/3bd43d4c5366b1b504dbaa3110910587/index.m3u8
+RT News,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609932039/ei/p0j1X93-LYqSiwTZkqaYCw/ip/198.255.103.16/id/NvCSr7qzAAM.24/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-q4fl6nly.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4040/mh/HH/mm/44/mn/sn-q4fl6nly/ms/lva/mv/m/mvi/4/pl/24/dover/11/keepalive/yes/mt/1609910193/sparams/expire
+TRTWORLD,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609922545/ei/kSP1X6GgBtbCkgar86XQBw/ip/198.255.103.16/id/CV5Fooi8YJA.844/itag/300/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D298/hls_chunk_host/r4---sn-a5msen7z.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/3360/mh/dM/mm/44/mn/sn-a5msen7z/ms/lva/mv/m/mvi/4/pl/24/dover/11/keepalive/yes/mt/1609900586/sparams/expire
+Bloomberg Financial,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609926263/ei/FzL1X6qLK8qQkwb7xYSwAQ/ip/198.255.103.15/id/dp8PhLsUcFE.4/itag/300/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D298/hls_chunk_host/r1---sn-q4fl6n7z.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/3290/mh/3k/mm/44/mn/sn-q4fl6n7z/ms/lva/mv/m/mvi/1/pl/24/dover/11/keepalive/yes/beids/9466587/mt/1609904429/sparams/expire
+Al Jazeera,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609926866/ei/cjT1X-O3MsqBkwbsyIs4/ip/198.255.103.15/id/Btv7G0BV45g.14/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-q4fl6ns7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/3230/mh/dY/mm/44/mn/sn-q4fl6ns7/ms/lva/mv/m/mvi/3/pl/24/dover/11/keepalive/yes/beids/9466585/mt/1609904914/sparams/expire
+Bloomberg Europe,http://f10.pp15000.com/live/370/7cee20c49e07d6d2e5cc69c313902f6a/index.m3u8
+第1商業,http://f10.pp15000.com/live/186/24b3767e20134871fe5253838841d79e/index.m3u8
+CNN頭條新聞,http://f10.pp15000.com/live/43/2a09a3517e76e0f018a38c471f51adcb/index.m3u8
+CNN國際新聞,http://f10.pp15000.com/live/420/5f05e0060f144152b9c19907a5856089/index.m3u8
+BBC World News,http://f13.pp16000.com/live/421/838e56d0478310b3a25e8230c93f4eaa/index.m3u8
+運通財經,http://f10.pp15000.com/live/79/ebece8d4829d5fb31b6c6f2ff8a1ae1b/index.m3u8
+歐洲新聞,http://f10.pp15000.com/live/1343/ffb95db274184ca1411e24f3f3eda4ce/index.m3u8
+愛爾達影劇,http://f16.pp17000.com/live/500/b81efe7c97cd71ab3dc5d2462adadca1/index.m3u8
+東森戲劇,http://f14.pp17000.com/live/321/250219c37ad769e7f03720e765bf7965/index.m3u8
+八大戲劇,http://f14.pp17000.com/live/81/c321a44eb0f0459cf54acd4b5b57e854/index.m3u8
+緯來戲劇,http://f14.pp17000.com/live/339/e7e8b41f4604e13f2164cfb63b1f39e0/index.m3u8
+衛視電影,http://f14.pp17000.com/live/93/fbaa95ba81e9eb3cd7db02c8d50d6611/index.m3u8
+東森電影,http://f14.pp17000.com/live/350/76be36c52eb6bea4c068411d509ed4b8/index.m3u8
+緯來電影,http://f14.pp17000.com/live/96/3b503d12a156efc7d2eda12de19d5272/index.m3u8
+HBO HD,http://f13.pp16000.com/live/332/2b16fc5684f8bb1ba845c7f8f8fa4ef1/index.m3u8
+東森洋片,http://f13.pp16000.com/live/1128/76f0e34cc3931154e8e0470b3f1e4bf0/index.m3u8
+好萊塢電影,http://f13.pp16000.com/live/37/1230e2a932f490ea056a776cb0dbf678/index.m3u8
+FOX MOVIES,http://f14.pp17000.com/live/387/b7519fed9c92e31727de4834b44d25e4/index.m3u8
+CineMAX,http://f14.pp17000.com/live/346/09cbce01506f6dc9b7c3899da50d47cc/index.m3u8
+FOX,http://f16.pp17000.com/live/384/9d5af408354850e2e27f94a9e9ee578d/index.m3u8
+靖天映畫,http://f14.pp17000.com/live/349/da673433463560b860e3b39764aa0b69/index.m3u8
+靖洋戲劇,http://f14.pp17000.com/live/319/11deeb07251ed5e9c789f6c2a2c17e60/index.m3u8
+EYE戲劇,http://f14.pp17000.com/live/191/4db517e09e951033b43990e6a64f339a/index.m3u8
+三立戲劇,http://f14.pp17000.com/live/64/65708477b17118b074f0d98d7d7d4e7d/index.m3u8
+FOX ACTION,http://f16.pp17000.com/live/385/3bd4c66dae875b294bbfffde123a9129/index.m3u8
+霹靂臺灣,http://f13.pp16000.com/live/1339/1e78661f5dd58eab79fd73fc052fae40/index.m3u8
+美亞電影,http://f16.pp17000.com/live/375/137603a62a70d5aec2c03696a0803dce/index.m3u8
+民視影劇,http://f13.pp16000.com/live/1023/ef1621958b0ee6c54dfa9fd8a07a8db3/index.m3u8
+FOX CRIME,http://f13.pp16000.com/live/386/8785ed1094078cda82dc70980e662b54/index.m3u8
+FOX Family,http://f16.pp17000.com/live/383/4bed36466c7c237dc11d00b904598bc3/index.m3u8
+HBOSignature,http://f14.pp17000.com/live/329/4c3c92961b7a82981020d6cc3140ecec/index.m3u8
+HBO Hits,http://f14.pp17000.com/live/330/5d3c6d2f6fe586abb6cd707ebabc64ab/index.m3u8
+采昌影劇,http://f14.pp17000.com/live/62/a7641eaf7a1cd04b523168a86571fcef/index.m3u8
+影迷數位電影,http://f16.pp17000.com/live/497/efb59ac1e8722c8f9deaa361570ec75b/index.m3u8
+龍華戲劇,http://f14.pp17000.com/live/365/7341369647719f9c68567fd35b9174ee/index.m3u8
+龍華經典,http://f14.pp17000.com/live/100/42c4dca76a0528f78f9ce985ff44e66c/index.m3u8
+龍翔時代,http://f16.pp17000.com/live/373/c5fc219237586c07a46bc827d4029b24/index.m3u8
+AXN臺灣,http://f16.pp17000.com/live/423/78c7fd7900fe3588ee12ec0ed7e44825/index.m3u8
+AMC,http://f14.pp17000.com/live/92/6b813f6a5121138b00fc280a3b27711c/index.m3u8
+星衛電影,http://f13.pp16000.com/live/496/d0443e4f837f8a978d56868da3dbc4f8/index.m3u8
+公視戲劇,http://f14.pp17000.com/live/69/796990e321289b292c89563ac166d14d/index.m3u8
+光影歐洲,http://f13.pp16000.com/live/1157/959f93cdfc4c133e585b6d22148018a7/index.m3u8
+AXN亞洲,http://f13.pp16000.com/live/1066/d8856bab364a67f29e2755e328d70781/index.m3u8
+Trill恐怖電影,http://f14.pp17000.com/live/18/70ea1802740e8ff0ff60fa42d273f7d5/index.m3u8
+HBO Family,http://f13.pp16000.com/live/331/bfdccda262cd0a7f91b7d7969d622148/index.m3u8
+龍華電影,http://f14.pp17000.com/live/311/a09891a994e132dc38df9cdc0e15165e/index.m3u8
+華納電影,http://f14.pp17000.com/live/83/67301dd56961fa18004b276bb0042587/index.m3u8
+金光布袋戲,http://f13.pp16000.com/live/1060/ff0e0f6972ff68612097d2d531cebd65/index.m3u8
+靖天戲劇,http://f14.pp17000.com/live/109/1d6d670575d01eb29459b17f456fbd8c/index.m3u8
+衛視西片,http://f14.pp17000.com/live/369/03854c25fe9bdd54cef77ad85fccbcb8/index.m3u8
+CATCHPLAY,http://f16.pp17000.com/live/362/15211f47e1e64db3908090aecf1eb348/index.m3u8
+Blue Ant Extreme,http://f16.pp17000.com/live/103/63d83610e043d88fdc0b50bd8161770f/index.m3u8
+爆穀台,http://f14.pp17000.com/live/152/c62dc51c5f211081838b395504166ed9/index.m3u8
+CHC高清電影,http://f14.pp17000.com/live/1345/548a128a09c4dcb307cf8ba650292d6a/index.m3u8
+CHC動作電影,http://f14.pp17000.com/live/1346/526d25b53350109fbd8f0f1554862c40/index.m3u8
+CHC家庭影院,http://f14.pp17000.com/live/1347/b9a6fae3ce7180ce8ed2cf2984c0a424/index.m3u8
+CBN每日影院,http://f14.pp17000.com/live/1348/c373b307b8625e4f190cfd97298b8318/index.m3u8
+SETONE,http://f14.pp17000.com/live/1349/df965c70afddea57ed013a3c91c365a0/index.m3u8
+GEM,http://f14.pp17000.com/live/1350/6cc375570cf6b7e9704961c9ff1235af/index.m3u8
+廣東影視,http://f20.ub1100.com/live/1499/de35f01045f2e84875c031b2c333346f/index.m3u8
+都市劇場,http://f13.pp16000.com/live/1497/d39afd5d41f648156a80281280a3c546/index.m3u8
+嶺南戲曲,http://f20.ub1100.com/live/1502/ca1c48bce8e216d5b3f0594a03cc220d/index.m3u8
+緯來體育,http://f16.pp17000.com/live/52/ab48dee26a289c6158f3037228be59bf/index.m3u8
+緯來體育,http://f16.pp17000.com/live/118/ee3e48520253468079fedb3d952e23d7/index.m3u8
+FOX Sport 1,http://f16.pp17000.com/live/1131/5c3dd9da6cad0c1a31544560f5a15c78/index.m3u8
+FOX Sport 2,http://f16.pp17000.com/live/1132/e4a19c594d2ac4f56cf63107a7ad6bbb/index.m3u8
+FOX Sport 3,http://f16.pp17000.com/live/376/5c855c091406e7b8478e962255a10300/index.m3u8
+Eleven Sport 1,http://f16.pp17000.com/live/1133/e06fbd1e116bf59cc6ef35ea9cdc23d6/index.m3u8
+Eleven Sport 2,http://f16.pp17000.com/live/301/4d83520f38443300543822bfcecd00b5/index.m3u8
+ELEVEN SPORTS PLUS,http://f16.pp17000.com/live/419/923bab1580ec30df59221266c8f6633a/index.m3u8
+ELTA體育1,http://f16.pp17000.com/live/192/92b8ba92099d77c6a275a12733a426d0/index.m3u8
+ELTA體育2,http://f16.pp17000.com/live/193/528ef7e79b994867223adbe5b9d423b7/index.m3u8
+ELTA體育3,http://f16.pp17000.com/live/194/a3238139814b927e8da4a67cc24e4381/index.m3u8
+Z頻道,http://f16.pp17000.com/live/1130/f4570fd423e848abadd3ca361ec02077/index.m3u8
+博斯無限,http://f16.pp17000.com/live/381/d77226042e184e29be50b44ad3880127/index.m3u8
+博斯無限2,http://f16.pp17000.com/live/426/5139fdbef25bcc2bf5dceac34fc20409/index.m3u8
+博斯網球,http://f16.pp17000.com/live/498/316a355b1016c8d110c861754c2fb243/index.m3u8
+博斯高球1,http://f16.pp17000.com/live/377/16262743f9d4d41ca87f27e1dfe1689d/index.m3u8
+博斯高球2,http://f16.pp17000.com/live/378/6ae3ff6370ed1f8ce6e4955017bcf5a2/index.m3u8
+博斯魅力,http://f16.pp17000.com/live/175/b1959b6802597de639610e031141804b/index.m3u8
+博斯運動1,http://f16.pp17000.com/live/379/bb6e4c55d68611e6164797a392ce9023/index.m3u8
+博斯運動2,http://f16.pp17000.com/live/380/120d3e2bce479fc8f450c4d3cdb569f1/index.m3u8
+TRACE Sport Stars,http://f16.pp17000.com/live/1037/976416255eafe09feac0cdb94e5bf7f9/index.m3u8
+智林體育,http://f16.pp17000.com/live/82/5ddfe4bfff8d3e9bf96f7918e0780a1a/index.m3u8
+時尚運動X,http://f16.pp17000.com/live/71/57a29312d436cc0ebc65f0196215d9ff/index.m3u8
+歐洲體育,http://f16.pp17000.com/live/1342/234caddc89c838f77876936c69ebffce/index.m3u8
+Edge Sport,http://f16.pp17000.com/live/1341/7d9b13d11e47ac6696f3cf87a23d1220/index.m3u8
+Ginx電競,http://f16.pp17000.com/live/425/edd22e42854ca8efa9a44dbcfc650573/index.m3u8
+廣東體育,http://f16.pp17000.com/live/1344/6eb6a13b5c139c1673222879119feca2/index.m3u8
+NOW SPORTS,http://f16.pp17000.com/live/1358/b1ce1747f101fea2cea554496b724b69/index.m3u8
+jsport1,http://f21.ub1200.com/live/129/da58c5898bc1eae60545278ca3cbbcfa/index.m3u8
+jsport2,http://f21.ub1200.com/live/130/7da94ddda4ffe222abe55e1c7fbf866a/index.m3u8
+jsport3,http://f21.ub1200.com/live/131/3ad801ee71c79ad20c1435fb9065897b/index.m3u8
+jsport4,http://f21.ub1200.com/live/132/329f1b1b326955ca1983108a69cc417a/index.m3u8
+BT Sport ESPN,http://f22.ub1300.com/live/168/58ed1346725ab2f1018f531d1e8ac89f/index.m3u8
+BT Sport 2,http://f22.ub1300.com/live/166/2c6520f72500f03557b5d8c7533781c9/index.m3u8
+BT Sport 3,http://f22.ub1300.com/live/167/b9ec2973549350790e8840f61ace5698/index.m3u8
+BT Sport 1,http://f22.ub1300.com/live/165/fc4311a51d25581fb1b524d255195509/index.m3u8
+Sky Sport 2,http://f22.ub1300.com/live/171/8cbccb3ffe6f95ed2a6e2269efbddb6f/index.m3u8
+Sky Sports 1,http://f22.ub1300.com/live/172/5f394bdeb323a4db827dd75704650223/index.m3u8
+Sky Sports F1,http://f22.ub1300.com/live/182/4e831aa4f4fdef27b5f40f1647dd7230/index.m3u8
+Sky Sport 3,http://f22.ub1300.com/live/183/3504fede7d018f0ac1b18da74a07d50d/index.m3u8
+Sky Sport 4,http://f22.ub1300.com/live/417/5a55aa7acfe9907866812382164d3011/index.m3u8
+Sky Sport 5,http://f22.ub1300.com/live/418/0f546f89582bf872e4fbecc604d350b4/index.m3u8
+Astro Sp1,http://f23.ub1400.com/live/444/3f5870c4b97b7e04dc06622f18f4cc58/index.m3u8
+Astro Sp2,http://f23.ub1400.com/live/445/0cbbe8023bc57e5a72d795d6beef68b7/index.m3u8
+Astro Sp3,http://f23.ub1400.com/live/446/74c3abf2daff4c23bf7d5e704d20e424/index.m3u8
+Astro Sp4,http://f23.ub1400.com/live/447/931a691912416176e2cfe4dd63ccb633/index.m3u8
+WWE,http://f23.ub1400.com/live/1081/f26104504e090ffd3868b251f5a6591e/index.m3u8
+風雲足球,http://f16.pp17000.com/live/463/5df0de9d455e00fa08dccb162de35778/index.m3u8
+魅力足球,http://f16.pp17000.com/live/464/eb57b569697b0097cb805491510813b1/index.m3u8
+新視覺,http://f02.pp12000.com/live/1498/013090596e9bd8c3bbc78baee119e4f5/index.m3u8
+高爾夫,http://f20.ub1100.com/live/1503/bf99e42203684ec992f005e2a46e8363/index.m3u8
+EYE旅遊,http://f18.pp18000.com/live/1494/44530b1c58a1efb2e5df1de087529c3c/index.m3u8
+TVN,http://f02.pp12000.com/live/1583/20776e1a3431f4b38d29aded0349f397/index.m3u8
+國家地理,http://f18.pp18000.com/live/302/78893344cc89f190ffc1059cb53a4e07/index.m3u8
+探索頻道,http://f18.pp18000.com/live/1035/17c11e2cc99a637f58a24fb535f34f6d/index.m3u8
+TLC旅遊生活,http://f18.pp18000.com/live/102/d8e9fa7d707d80602f878c73b3d1319e/index.m3u8
+民視旅遊,http://f18.pp18000.com/live/78/ebc177710d4b5f84214cf40b94ab7bfe/index.m3u8
+探索亞洲,http://f18.pp18000.com/live/306/0a4958eed469693829827a09fd7aa9eb/index.m3u8
+探索科學,http://f18.pp18000.com/live/343/1adb0fe32fbdd31e6bd7ed0519f8e7e8/index.m3u8
+Love Nature,http://f18.pp18000.com/live/388/1bbe1306411d3c4324673e3d1e1c54a5/index.m3u8
+國家野生,http://f18.pp18000.com/live/1038/1777d256783c248ed26df4c61452d790/index.m3u8
+CI罪案偵查,http://f18.pp18000.com/live/1159/243b4ff6845b6a48be73fecb5e1b5b55/index.m3u8
+探索EVE,http://f18.pp18000.com/live/1036/63311ed10791927b555490f1acfe213d/index.m3u8
+History 2,http://f18.pp18000.com/live/1158/ab385b24d82b257c76c66b56d3960b62/index.m3u8
+History,http://f18.pp18000.com/live/116/ad11c94cfd8eec04916963be210b8156/index.m3u8
+BBC Lifestyle,http://f18.pp18000.com/live/424/af02d52b942c78fcbb09d7cfb74053b3/index.m3u8
+爆笑頻道,http://f18.pp18000.com/live/85/466c7c09d7411a6b24f5e7a50e6e16d7/index.m3u8
+視納華仁紀實,http://f18.pp18000.com/live/91/be59e3a4d0cbf0881899733590892ae8/index.m3u8
+美食星球,http://f18.pp18000.com/live/1360/b967fed861ca732854d693b0d23d8741/index.m3u8
+AFN,http://f18.pp18000.com/live/307/8ec9bd49a9c5f905b06f8ad2ac67aa0d/index.m3u8
+亞洲旅遊,http://f18.pp18000.com/live/77/e73cf2a90c3f764763ba45c22e1a8aef/index.m3u8
+Travel Channel,http://f18.pp18000.com/live/63/f05587e7549f89ff120395040f46e298/index.m3u8
+BBC EARTH,http://f18.pp18000.com/live/97/5535f54ac214aeaba2f8be7a9cab1d99/index.m3u8
+LUXE,http://f18.pp18000.com/live/112/8a54cef6cc8754ec12d1ed27556c586e/index.m3u8
+探索動力DMAX,http://f18.pp18000.com/live/335/bf859ab59e9eafb13a1c9d23582f7e5a/index.m3u8
+FoodNetwork,http://f18.pp18000.com/live/294/7868630ad0bc70634068f8d708b87f21/index.m3u8
+Astronaut Spacewalk Earth,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609924106/ei/qSn1X_nNOs2mkwaNkZ3oBg/ip/198.255.103.16/id/mg7FweYjasE.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-a5mekne7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/10820/mh/Ux/mm/44/mn/sn-a5mekne7/ms/lva/mv/m/mvi/4/pl/24/dover/11/keepalive/yes/beids/9466586/mt/1609902271/sparams/expire
+NASA ISS,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609924583/ei/hyv1X9vPIcqIkwaS5aOYDQ/ip/198.255.103.16/id/EEIk7gwjgIM.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-a5meknek.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/14030/mh/rE/mm/44/mn/sn-a5meknek/ms/lva/mv/m/mvi/1/pl/24/dover/11/keepalive/yes/beids/9466588/mt/1609902514/sparams/expire
+Earth Views,http://f18.pp18000.com/live/1017/f8518350a70ba1e773daf333867ce2ad/index.m3u8
+NASA Live,http://f18.pp18000.com/live/196/0c371de0914aeec2f23d5e970b9b36e7/index.m3u8
+NASA TV,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609927583/ei/Pzf1X7uGFYuqkga05a-ICw/ip/198.255.103.17/id/21X5lGlDOfg.3/itag/300/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D298/hls_chunk_host/r5---sn-q4fl6nez.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/3220/mh/N8/mm/44/mn/sn-q4fl6nez/ms/lva/mv/m/mvi/5/pl/24/dover/11/keepalive/yes/mt/1609905640/sparams/expire
+Pet Club,http://f18.pp18000.com/live/368/f45497c80adb538761cf967887c0d450/index.m3u8
+動物星球,http://f18.pp18000.com/live/367/5f733a8f72dd32bbed726a13feb453bf/index.m3u8
+Outdoor,http://f18.pp18000.com/live/374/1c9b062cd707463d9ba220aab6fd2ed2/index.m3u8
+國家人文,http://f18.pp18000.com/live/334/45f4f884f6951299eef6913da9f551e3/index.m3u8
+國家地理悠人,http://f18.pp18000.com/live/114/7ff7a8598badd2c3dcd308c8b971ab17/index.m3u8
+TLC,http://f22.ub1300.com/live/1206/7290d9d32918945151d0c65df467ecda/index.m3u8
+CN卡通,http://f18.pp18000.com/live/107/24e1471755b066bc6f186d31fa15fff9/index.m3u8
+MOMO親子台,http://f18.pp18000.com/live/1149/bf71a786c0aa7896ded836781cbaf1f0/index.m3u8
+MOMO親子,http://f18.pp18000.com/live/1126/dd9363d982978b08b2fd2c99b5923ab4/index.m3u8
+YOYO TV,http://f18.pp18000.com/live/293/e5031056d442f1c18af639edff61d0fb/index.m3u8
+東森幼幼,http://f18.pp18000.com/live/371/a19c85208cc8175e023d11c89d2c7903/index.m3u8
+Animax,http://f18.pp18000.com/live/59/dd7f22a2a6a224dca2d211424fe7769e/index.m3u8
+達文西,http://f18.pp18000.com/live/68/4e2f3cfa6eee97a25d2de22d94909edf/index.m3u8
+曼迪日本,http://f18.pp18000.com/live/316/de06c12931fc1fa6b0beb7edf58cca5d/index.m3u8
+靖洋卡通,http://f18.pp18000.com/live/348/28f4d1b601b4a8934897eb01df0c768a/index.m3u8
+BabyFirst,http://f18.pp18000.com/live/173/a7591efbf718b7d5c9e098ffe5471bc9/index.m3u8
+i-Fun動漫,http://f18.pp18000.com/live/1127/33b91384cc97476f0fb7e66ea180a9c8/index.m3u8
+愛放2,http://f18.pp18000.com/live/299/1d1fd043cc3c25e118b6d4bfd588de19/index.m3u8
+靖天卡通,http://f18.pp18000.com/live/344/9eeb3c22827a1336144412dcc1c848a0/index.m3u8
+Nick Jr.,http://f18.pp18000.com/live/50/9afa3a79a9432dc9f53c1c13227c9fad/index.m3u8
+ELTV生活英語,http://f18.pp18000.com/live/323/f3615943a530300af682ff3644112754/index.m3u8
+龍華動畫,http://f18.pp18000.com/live/366/b83e32f409eea507c262b91461f49e1a/index.m3u8
+Baby TV,http://f18.pp18000.com/live/1129/a22f435b136d012827690865ab450a6e/index.m3u8
+Treehouse,http://f18.pp18000.com/live/55/e565f290a1a450cd96667cc6a036ccfb/index.m3u8
+Nickj,http://f18.pp18000.com/live/53/854a3c4dd8ca4f1500e4b9526c352afc/index.m3u8
+Disney,http://f18.pp18000.com/live/5/61ef512637c1e0b366463050559e15d7/index.m3u8
+Disneyxd,http://f18.pp18000.com/live/31/5b49333b8d4ae1c5247f8377ab7059ee/index.m3u8
+Disneyj,http://f18.pp18000.com/live/47/48e40a02fd8e77907efd6f7c0436bafc/index.m3u8
+Boomerang,http://f18.pp18000.com/live/57/fdb01f6bd52e069dce189acd5e5cdea1/index.m3u8
+BBC CBeebies,http://f18.pp18000.com/live/1588/be41ed1ce1a1be90364ee55e151f8623/index.m3u8
+BBC CBeebies,http://f18.pp18000.com/live/115/bf4cb992f78385b54ec348e3f497143f/index.m3u8
+Dreamworks,http://f18.pp18000.com/live/48/99e53bf150f99b85371d2ccb2c05f5f0/index.m3u8
+MY KIDS,http://f18.pp18000.com/live/1495/7784e2246bd9d22ab281a3ff32c5af88/index.m3u8
+BabyTV,http://f23.ub1400.com/live/1241/163e811649e9cd292dfe752efb1a57e8/index.m3u8
+廣東少兒,http://f20.ub1100.com/live/1500/d383a16db259a7de14fdad9ba92757f5/index.m3u8
+嘉佳卡通,http://f20.ub1100.com/live/1501/7d0161050c5e64d767942a804a9a4c76/index.m3u8
+lofi hip hop,http://f20.ub1100.com/live/1594/e4d6254caa7c2898d5deb4b471c16749/index.m3u8
+好消息,http://f02.pp12000.com/live/104/941ea0d1bc1fd9b89f439da46bc32dca/index.m3u8
+好消息2,http://f03.pp13000.com/live/363/5814a9ed55bcda97d7eb93a2cf8459f7/index.m3u8
+Channel V,http://f18.pp18000.com/live/151/e5fd3f280fb73f5b10c2faad17e0b6a5/index.m3u8
+Relaxing Jazz Piano,http://f20.ub1100.com/live/1351/701b4ec3786485136158cc2d3e893895/index.m3u8
+Earth Views,http://f18.pp18000.com/live/1017/f8518350a70ba1e773daf333867ce2ad/index.m3u8
+Beautiful Piano Music,http://f20.ub1100.com/live/1361/ee8fa16aec3969487fcf15bcae992bf9/index.m3u8
+One World Radio,http://f18.pp18000.com/live/1153/4112bd9fd0c4a09a4f0859c6896bc875/index.m3u8
+Mezzo Live,http://f20.ub1100.com/live/60/94670ebd11de0253c99c3d798fde9f9f/index.m3u8
+Hit Fm,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609924104/ei/qCn1X9LvJ43kkgaOkIfABw/ip/198.255.103.16/id/Ptg8ErmPjxM.272/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r5---sn-a5meknsd.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/10340/mh/KD/mm/44/mn/sn-a5meknsd/ms/lva/mv/m/mvi/5/pl/24/dover/11/keepalive/yes/beids/23886210/mt/1609902025/sparams/expire
+4K Nature,http://f18.pp18000.com/live/1015/22588add70d44925d6db73b6cb16c2da/index.m3u8
+Coffee Jazz,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609923864/ei/uCj1X_6BIJDKkgaNi7bgCg/ip/198.255.103.16/id/fEvM-OUbaKs.300/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-a5mlrn7y.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/10090/mh/H7/mm/44/mn/sn-a5mlrn7y/ms/lva/mv/m/mvi/1/pl/24/dover/11/keepalive/yes/mt/1609901783/sparams/expire
+Space Ambient,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609922543/ei/jyP1X_fyMpKrkwbF6orQAQ/ip/198.255.103.16/id/tNkZsRW7h2c.3/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-a5mlrn7z.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/3050/mh/xp/mm/44/mn/sn-a5mlrn7z/ms/lva/mv/m/mvi/4/pl/24/dover/11/keepalive/yes/mt/1609900825/sparams/expire
+Rolling Cam Venice,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609922064/ei/sCH1X-zuM4LSkgaekY24Aw/ip/198.255.103.16/id/ph1vpnYIxJk.2/itag/300/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D298/hls_chunk_host/r3---sn-q4fl6n7s.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/3350/mh/XG/mm/44/mn/sn-q4fl6n7s/ms/lva/mv/m/mvi/3/pl/24/dover/11/keepalive/yes/mt/1609900103/sparams/expire
+大愛一臺,http://f18.pp18000.com/live/11/ab82d05d5f31a6dc49a9373eba59ed59/index.m3u8
+大愛二臺,http://f18.pp18000.com/live/197/880a6c7bbe5179e06cf74b9efc35e6c5/index.m3u8
+M2O,http://f20.ub1100.com/live/94/6ecf943f231da784ddf4505d5e16876c/index.m3u8
+CLASSICA 古典樂,http://f20.ub1100.com/live/1027/fee5c708aec3c9123eda995605df9ea9/index.m3u8
+希望電視,http://f20.ub1100.com/live/67/4b734f3581fb9bb549e07ecf02e590ec/index.m3u8
+唯心電視,http://f20.ub1100.com/live/1150/07f8d57b7852b44341e6dd5ba611d2dd/index.m3u8
+人間衛視,http://f20.ub1100.com/live/101/c089381fe904b43616047146a539d6a0/index.m3u8
+Best Radio,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609929444/ei/hD71X6K7Dpiskwbkoq2wBA/ip/198.255.103.15/id/kGKkUN50R0c.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r5---sn-a5mlrn7y.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/12090/mh/VY/mm/44/mn/sn-a5mlrn7y/ms/lva/mv/m/mvi/5/pl/24/dover/11/keepalive/yes/mt/1609907555/sparams/expire
+大愛海外,http://f20.ub1100.com/live/184/b2e4714fddcc66baa90cd6ff6acb2f99/index.m3u8
+Medici Arts,http://f20.ub1100.com/live/188/8ad2f2fddf1e3c1be34ccee9a8205e63/index.m3u8
+MTV Live,http://f20.ub1100.com/live/106/dda398366cec722d9efb535caf221e06/index.m3u8
+Rainy Jazz,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609928604/ei/PDv1X5v7LMfHkgbaiKmoCw/ip/198.255.103.15/id/DSGyEsJ17cI.452/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-a5msen76.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4140/mh/h_/mm/44/mn/sn-a5msen76/ms/lva/mv/m/mvi/4/pl/24/dover/11/keepalive/yes/mt/1609906833/sparams/expire
+Tropical House,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609926267/ei/GzL1X_CsI86jkwa8ooCADw/ip/198.255.103.15/id/SIt21jdTYKk.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-q4fl6ns6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/3290/mh/jn/mm/44/mn/sn-q4fl6ns6/ms/lva/mv/m/mvi/4/pl/24/dover/11/keepalive/yes/mt/1609904429/sparams/expire
+自然の音,http://f20.ub1100.com/live/1091/5f9b0ab77485bdc22757e19dd052a9ea/index.m3u8
+Relaxing Music,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609926265/ei/GTL1X9n3CoaOkwbwroGQDg/ip/198.255.103.15/id/UQRDv3HtmUA.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-q4flrnee.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/3290/mh/Dl/mm/44/mn/sn-q4flrnee/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/mt/1609904429/sparams/expire
+Calm Piano Music,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609926266/ei/GjL1X8XTHM6ikgaEorSQBA/ip/198.255.103.15/id/XULUBg_ZcAU.334/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-q4fl6nl7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/2980/mh/-L/mm/44/mn/sn-q4fl6nl7/ms/lva/mv/m/mvi/4/pl/24/dover/11/keepalive/yes/mt/1609904191/sparams/expire
+Trace Urban,http://f20.ub1100.com/live/1003/30c0180b0b0317849c80fc751a724647/index.m3u8
+佛衛慈悲台,http://f20.ub1100.com/live/1306/916a6a2a3108ef74f2466ef22a04b0d1/index.m3u8
+生命電視,http://f20.ub1100.com/live/1124/9c43eacf5aa4f60c6338ebd582b11db7/index.m3u8
+華藏電視,http://118.163.88.61:1935/hwazanlivetv/live.stream/chunklist_w41001868.m3u8
+海豚綜合,http://f20.ub1100.com/live/1505/38aeaf506f6169a3b9abc296bda1d47a/index.m3u8
+CCTV1,http://f20.ub1100.com/live/200/ffbef4e68bca33dcbb73a5eb6b9d680e/index.m3u8
+CCTV2,http://f02.pp12000.com/live/201/6c957698abc0685f5676c4312a22ef50/index.m3u8
+CCTV3,http://f20.ub1100.com/live/202/3231cbf19ab9bc87a73d9a026cf66cc6/index.m3u8
+CCTV4,http://f20.ub1100.com/live/203/eb975192b4f9c765fda10b937fec3a8d/index.m3u8
+CCTV5,http://f07.ub1700.com/live/204/229378d96c2ae0fa8d38a0f8efd0b91f/index.m3u8
+CCTV5plus,http://f09.ub1900.com/live/205/63b64fa2375491df5bc4360b79b799fa/index.m3u8
+CCTV6,http://f20.ub1100.com/live/206/8b9a2f160ac46ad3872e347a855cce74/index.m3u8
+CCTV7,http://f02.pp12000.com/live/207/9c76a6430dc3e28835c7c1ba6b9a697c/index.m3u8
+CCTV8,http://f02.pp12000.com/live/208/f45fff519491d37ea9ee6a31271f292b/index.m3u8
+CCTV9,http://f02.pp12000.com/live/209/6c3af292612782fba996488d29b8f4e8/index.m3u8
+CCTV10,http://f20.ub1100.com/live/210/58b64a5358a185b0bfb928e34de498b1/index.m3u8
+CCTV11,http://f20.ub1100.com/live/211/4498b54aec67e9dda2eb4acc782855a3/index.m3u8
+CCTV12,http://f20.ub1100.com/live/212/64f902bb0163d3b16ec6355aa8795a67/index.m3u8
+CCTV13,http://f20.ub1100.com/live/213/1af0ad78abbf49f226a95cc280fb0d76/index.m3u8
+CCTV14,http://f20.ub1100.com/live/214/2cfeb9982549baba8bea230be06b855e/index.m3u8
+CCTV15,http://f20.ub1100.com/live/215/9cbfdf81f16486c0c06ff8c40f0f538c/index.m3u8
+厦门卫视,http://f20.ub1100.com/live/216/64491b5137e04085f7ae353bb2438a73/index.m3u8
+浙江卫视,http://f20.ub1100.com/live/217/7c07a54cd950d1fc1cbaa609e3ef8e7d/index.m3u8
+江苏卫视,http://f20.ub1100.com/live/218/3206eb387642f59a61e5c3c3a075b064/index.m3u8
+南方卫视,http://f20.ub1100.com/live/219/ba8922ac5421391c94bb6b7be382c41e/index.m3u8
+北京卫视,http://f20.ub1100.com/live/220/1bac6ec67745a9a9da12b931bc4b6717/index.m3u8
+CCTVNEWS,http://f20.ub1100.com/live/221/9e716febc4af5569fadbf56b90b463da/index.m3u8
+CCTV娱乐,http://f20.ub1100.com/live/222/68ac04add6a29ebb09e1cbbe545431fc/index.m3u8
+海峡卫视,http://f20.ub1100.com/live/223/54717ced8f375e6b10e10c61e8a8e303/index.m3u8
+东方卫视,http://f20.ub1100.com/live/224/27ab02e571fb701180c625a8bdfa4fe7/index.m3u8
+湖南卫视,http://f20.ub1100.com/live/226/cb6b7f4429bc51c22b1f7a5a6dc82a09/index.m3u8
+湖北卫视,http://f20.ub1100.com/live/227/2a58a9f0f8650743094d4d7965e90f00/index.m3u8
+东南卫视,http://f20.ub1100.com/live/228/e57b3f998e16f8a4d4999e164897047d/index.m3u8
+辽宁卫视,http://f20.ub1100.com/live/229/9774326ac3c3b0a0ea049da5963d770e/index.m3u8
+深圳卫视,http://f20.ub1100.com/live/230/0b5742f113c16815474d2d565de99860/index.m3u8
+广东卫视,http://f20.ub1100.com/live/231/89477afc8efdcb69a0deab9d666dcf30/index.m3u8
+安徽卫视,http://f20.ub1100.com/live/232/9e8250acefc49559359b9ee669471375/index.m3u8
+四川卫视,http://f20.ub1100.com/live/233/46b7992c711a9a09d1f27999ce477a75/index.m3u8
+山东卫视,http://f20.ub1100.com/live/234/e7358a8488cd04dab6bcaca2927b4509/index.m3u8
+廣東影視,http://f20.ub1100.com/live/1499/de35f01045f2e84875c031b2c333346f/index.m3u8
+廣東少兒,http://f20.ub1100.com/live/1500/d383a16db259a7de14fdad9ba92757f5/index.m3u8
+嘉佳卡通,http://f20.ub1100.com/live/1501/7d0161050c5e64d767942a804a9a4c76/index.m3u8
+嶺南戲曲,http://f20.ub1100.com/live/1502/ca1c48bce8e216d5b3f0594a03cc220d/index.m3u8
+高爾夫,http://f20.ub1100.com/live/1503/bf99e42203684ec992f005e2a46e8363/index.m3u8
+JapaNews24,http://f21.ub1200.com/live/1043/e39fec33d23203ad16395ccae719c0dd/index.m3u8
+NTV News24,http://f21.ub1200.com/live/42/0f5076bba610b93a14954c538651780d/index.m3u8
+BSテレビ東京,http://f21.ub1200.com/live/243/14e4d8d3dffcbfb774b160c27aefc0ca/index.m3u8
+時代劇の専門家,http://f21.ub1200.com/live/287/0c290a32e0f3232ad11a9941c7fdf0c1/index.m3u8
+テレビ朝日,http://f21.ub1200.com/live/237/82a94480966d1b05173f90c10edbe0a0/index.m3u8
+SKY A,http://f21.ub1200.com/live/247/9677c2e9ccca9ad74395bb2fc5449824/index.m3u8
+読売テレビ,http://f21.ub1200.com/live/198/2f32c9bcb68926ac7ec5ea4076a3d303/index.m3u8
+毎日放送,http://f21.ub1200.com/live/199/55efbe8e354effcbd2bf9c1da9903696/index.m3u8
+FU JI,http://f21.ub1200.com/live/122/3ba43b700ec237ad231196907b05ea80/index.m3u8
+NHK World,http://f21.ub1200.com/live/117/849142aee88c9f49e8e3e013bcbb69cc/index.m3u8
+旅チャンネル,http://f21.ub1200.com/live/292/b04289cd71031fd0b556125cd0aa7b44/index.m3u8
+NTV,http://f21.ub1200.com/live/119/15ca618cafa8512ba72ef557d8a6c2b3/index.m3u8
+サンテレビ,http://f21.ub1200.com/live/238/bd6c12886f8b8a61214f3f0e64911dfe/index.m3u8
+BSプレミアム,http://f21.ub1200.com/live/239/1ea898244156a992cf5373915f4c5a85/index.m3u8
+BS日テレ,http://f21.ub1200.com/live/240/ed81cb824ac8ff89a284055cea0b155a/index.m3u8
+BS朝日,http://f21.ub1200.com/live/241/7df596df39e7a167100ab1424cf4b112/index.m3u8
+BS12,http://f21.ub1200.com/live/245/9ca001fc38d729275711a30614f6318b/index.m3u8
+関西テレビ,http://f21.ub1200.com/live/235/24a216efd0db0f449a5e4f659aae0d1e/index.m3u8
+BS-TBS,http://f21.ub1200.com/live/242/0042ce73133dbefa3bf34cdd2d861f6b/index.m3u8
+Golf Network,http://f21.ub1200.com/live/249/4ee4219742ca7141393cbea81c059362/index.m3u8
+BS-FUJI,http://f21.ub1200.com/live/244/900f7b7a6776178fcc962cff543a1f6f/index.m3u8
+jsport1,http://f21.ub1200.com/live/129/da58c5898bc1eae60545278ca3cbbcfa/index.m3u8
+jsport2,http://f21.ub1200.com/live/130/7da94ddda4ffe222abe55e1c7fbf866a/index.m3u8
+jsport3,http://f21.ub1200.com/live/131/3ad801ee71c79ad20c1435fb9065897b/index.m3u8
+jsport4,http://f21.ub1200.com/live/132/329f1b1b326955ca1983108a69cc417a/index.m3u8
+HTB北海道,http://f21.ub1200.com/live/39/7063b47db13ec06edb785ef9765faae0/index.m3u8
+GaoRa,http://f21.ub1200.com/live/296/cfc412ba214704636d0d286708da8c8e/index.m3u8
+NHKE,http://f21.ub1200.com/live/120/003d400ac1eca609857f290a3241a1c0/index.m3u8
+NHK-G,http://f21.ub1200.com/live/121/096a41036e9937f0fdd46c12acfab941/index.m3u8
+TV Tokyo,http://f21.ub1200.com/live/123/6590029f4ced83105d9d05c850ecf5c1/index.m3u8
+TBS,http://f21.ub1200.com/live/124/8bd4441501efcddb0e8d9e1e09b91d4e/index.m3u8
+大阪TV,http://f21.ub1200.com/live/126/e37c3a5ab6e042a21703ecb6dee9b336/index.m3u8
+ABC朝日,http://f21.ub1200.com/live/127/51c964fc52d011de2711cdafb67970ec/index.m3u8
+BS1,http://f21.ub1200.com/live/128/7f5fa252714209403b0a4554ebe6b31b/index.m3u8
+wowo1,http://f21.ub1200.com/live/133/6190451e4bf26c3b1005a807d6b91f64/index.m3u8
+wowo2,http://f21.ub1200.com/live/134/2e36ca0d316cceb5830d433418e5f53d/index.m3u8
+wowo3,http://f21.ub1200.com/live/135/5c5cdf73430505ac2adfe9f56b94c012/index.m3u8
+STAR1,http://f21.ub1200.com/live/136/50d9df0342d6fd852d4fe4e36c962452/index.m3u8
+STAR2,http://f21.ub1200.com/live/137/e95f2b9bc61468a24170c4767c90bf8e/index.m3u8
+STAR3,http://f21.ub1200.com/live/138/af419ed2bc34e3e521be9a64e5793960/index.m3u8
+animax,http://f21.ub1200.com/live/139/8228186970ba9a2091dd6a276aa1a528/index.m3u8
+Green,http://f21.ub1200.com/live/140/b5e952f7ec431f28ba1ddd8d09789451/index.m3u8
+Discovery,http://f21.ub1200.com/live/290/e5226f1cd8f999002d6b7a38a9fc1241/index.m3u8
+Tokyo MX1,http://f21.ub1200.com/live/33/ffd35cb74dec110323cc1f6558b481d1/index.m3u8
+Tokyo MX2,http://f21.ub1200.com/live/1148/f69ba6b6d1ed9a78b8de44adbe533239/index.m3u8
+KIDS,http://f21.ub1200.com/live/289/c6479e155030e4682eafdda17bb2f6a6/index.m3u8
+衛星劇場,http://f21.ub1200.com/live/298/be30c1742fa7f384a0685ddf50229cc3/index.m3u8
+MUSIC JAPAN,http://f21.ub1200.com/live/288/3cab37d310fac66d9c08846dba35afb6/index.m3u8
+TV asahi,http://f21.ub1200.com/live/125/f4e155ab933c7be8fd463722e891a8a4/index.m3u8
+KBC NEWS24,http://f21.ub1200.com/live/297/ffafcbfbefcdaa4605c73f7ee4e5c76d/index.m3u8
+CN,http://f21.ub1200.com/live/1296/f716b617ca8059c29ab57417e0a7fff4/index.m3u8
+TVN,http://f22.ub1300.com/live/295/f231e679535d3db010ecac3f58598079/index.m3u8
+????TV,http://f23.ub1400.com/live/1039/c464e935ed9b54b6ed55d72608d8c3ec/index.m3u8
+KBS WORLD 24,http://f23.ub1400.com/live/1040/3c23ecb321a3b7b5ef9bf3b1d5641c83/index.m3u8
+YTN,http://f23.ub1400.com/live/1061/d480f4ffab084c99ca611bfffeff911b/index.m3u8
+Korean Culture,http://f22.ub1300.com/live/1135/4e907d1afe8ea16250cb7badcb1defd7/index.m3u8
+KBS1,http://f22.ub1300.com/live/174/5a701c3bf0fc1a6142c15c5e814e64ec/index.m3u8
+KBS2,http://f22.ub1300.com/live/250/660f8e4d545629df127f03149a4dc484/index.m3u8
+MBC,http://f22.ub1300.com/live/251/547cb16b9f378c7ab4c87989f5ece996/index.m3u8
+SBS,http://f22.ub1300.com/live/252/4b4f7b39dc46fd112ca7da5c9bcc5ceb/index.m3u8
+SBS FUNE,http://f22.ub1300.com/live/254/4102470a31d3f55629b2a8ec72e9fb1d/index.m3u8
+SBS CNBC,http://f22.ub1300.com/live/255/92f5ddd4dcd90087a029682023789c96/index.m3u8
+MBN,http://f22.ub1300.com/live/257/feac49e9fd9b68bfcf15bb2c13c25217/index.m3u8
+KBS24,http://f22.ub1300.com/live/260/bf93a854b9ad80b43b19b581b30d551c/index.m3u8
+KBSW,http://f23.ub1400.com/live/1100/6cec4d5cf51f083654e6c6cd336be950/index.m3u8
+Channel A,http://f22.ub1300.com/live/258/daa335145033b8ef02cd20d45aa10c6f/index.m3u8
+MBC???,http://f22.ub1300.com/live/261/8dfd5963f86ee631e7caf99c76755d51/index.m3u8
+SBS PLus,http://f22.ub1300.com/live/262/e3539d0df9d78c703f9da62f55e8ce47/index.m3u8
+KBSNLife,http://f22.ub1300.com/live/263/4662968eccef7034498a0b5bcdde18ad/index.m3u8
+KBSN Plus,http://f23.ub1400.com/live/264/a39bfabed788ad6d90d2875fb36bc5af/index.m3u8
+KBSKids,http://f22.ub1300.com/live/1582/e3cf0551be519d377c84435c001a2203/index.m3u8
+MBC???,http://f22.ub1300.com/live/265/9e2c2c279aeb968552fd53592ec7fd22/index.m3u8
+JTBC??,http://f22.ub1300.com/live/268/2cd2b61298351f4cd7be76d2b4845fee/index.m3u8
+JTBC,http://f22.ub1300.com/live/253/503dd501297b11ae30d6fecee8954207/index.m3u8
+KBS joy,http://f23.ub1400.com/live/1154/9751532e863dee0b7ffc59c73b53d7c6/index.m3u8
+OCN,http://f22.ub1300.com/live/488/b8f461eb65e59bb1b3bb05d9fd1a0cbe/index.m3u8
+iNet,http://f22.ub1300.com/live/490/3462c19139e942d9e9f5824941dcacff/index.m3u8
+CTS,http://f22.ub1300.com/live/491/89d58d158e099ca7b953796b1c25acbe/index.m3u8
+Spotv,http://f22.ub1300.com/live/266/f825aef959070d40c6fb2547c79a2222/index.m3u8
+Spotv2,http://f22.ub1300.com/live/267/2e8ff38bce0d9749288a197df119e5f7/index.m3u8
+THE K-POP,http://f22.ub1300.com/live/493/a78e366a1f187573ace539b3a19d1b19/index.m3u8
+SBS??,http://f22.ub1300.com/live/486/f3ed2491d884aeea0736b3658cadd477/index.m3u8
+Olive,http://f22.ub1300.com/live/1063/98140499e663f19c14db7fa0d9786a8b/index.m3u8
+????,http://f23.ub1400.com/live/1064/64b884b861fd8496ecec048df8a8c610/index.m3u8
+YTN,http://f23.ub1400.com/live/1065/40f190acdcca5dbf748d2a9cfdcaf1f8/index.m3u8
+YTN ????,http://f22.ub1300.com/live/1605/0879b9681325e7fad8cf8ed3a31df7e7/index.m3u8
+YTN dmb,http://f23.ub1400.com/live/492/4d5599d2f983f671533cb20fedc1cebd/index.m3u8
+CNTV,http://f22.ub1300.com/live/256/ec4fa6b2c89d6189e57dc87d6e1b9421/index.m3u8
+OCNMOVIES,http://f22.ub1300.com/live/1020/37b38812186507e767872654bc39a6bc/index.m3u8
+TV CHOSUN,http://f22.ub1300.com/live/489/dc4067d6e6ad2f3d82adc6b465c9974b/index.m3u8
+Mnet,http://f22.ub1300.com/live/1136/281addebbed58f03b6689cdc7dd63c1d/index.m3u8
+MBCevery1,http://f22.ub1300.com/live/476/a46c69869a95ee626299cbc713d30c30/index.m3u8
+Tconvers,http://f22.ub1300.com/live/1134/ea316cb7d9851ab688948f05df172fdc/index.m3u8
+KBS Drama,http://f23.ub1400.com/live/1062/1dbbd8a2aff456d0d3f95f98bfcd2431/index.m3u8
+??A,http://f22.ub1300.com/live/1092/91ec11df42cd2ec86a51aa99fb141fbf/index.m3u8
+EBS 2,http://f23.ub1400.com/live/1093/c925cfb21ebcedfac45fc2e037cc919f/index.m3u8
+EBS Kids,http://f23.ub1400.com/live/1094/3a69a76ecd735b0d60625dc37a1887be/index.m3u8
+EBS English,http://f23.ub1400.com/live/1095/47df6b685759a28e0daac9b31686ffc8/index.m3u8
+EBSPlus 1,http://f23.ub1400.com/live/1096/df782fb6390d1223f0224d11b4df8a62/index.m3u8
+EBSPlus 2,http://f23.ub1400.com/live/1097/7682b53a4e2ec719ea8f53607072a01b/index.m3u8
+EBS1,http://f23.ub1400.com/live/1098/349a15828e1556f84c551afc21c9287f/index.m3u8
+SBS Star,http://f23.ub1400.com/live/1101/20964d9cd149b94492304c04187b7a02/index.m3u8
+KBC,http://119.200.131.11:1935/KBCTV/tv/chunklist_w1081055066.m3u8
+MTN,http://f22.ub1300.com/live/1504/ec1db8ec126f1f13b30715b42da55cd0/index.m3u8
+E,http://f21.ub1200.com/live/1536/30b753972851f206839db278bb56d13b/index.m3u8
+Syfy,http://f21.ub1200.com/live/1537/cef7835da3d8cca98882328fa33e2053/index.m3u8
+HGTV,http://f21.ub1200.com/live/1538/190e2233a69a5b15887a36bc22951d8d/index.m3u8
+NBC Golf,http://f21.ub1200.com/live/1539/a570e5991cc02db85d6dde3623e15f9f/index.m3u8
+law and crime,http://f21.ub1200.com/live/1540/7866eb9e29ef4e39c08bdd838f98c22b/index.m3u8
+Msnbc,http://f21.ub1200.com/live/1541/63f2007ebc7fdd7808476c981904e00a/index.m3u8
+Goltv,http://f21.ub1200.com/live/1542/9dc5cb800ae63301e435ca67679d09a7/index.m3u8
+TVG,http://f21.ub1200.com/live/1543/4f81ec5328cf3e8d8562188eabac9a79/index.m3u8
+Willow Cricket,http://f21.ub1200.com/live/1544/85c368a6c060286a75d64a0045c93d64/index.m3u8
+TBS,http://f21.ub1200.com/live/1545/46bfdf29b3a7550d29ae5e21ad2ffcde/index.m3u8
+MTV,http://f21.ub1200.com/live/1546/0cdda93d103ff84d700d05f5fd86aaa2/index.m3u8
+PBS,http://f21.ub1200.com/live/1547/a55e4249ee2c2bd3e7901694c808c535/index.m3u8
+SundanceTV,http://f21.ub1200.com/live/1548/dfc78c9532050b59f2cce155fe4889f3/index.m3u8
+truTV,http://f21.ub1200.com/live/1549/8d8b1a934696046f31c0288ed0cfea0e/index.m3u8
+WE TV,http://f21.ub1200.com/live/1550/9b266d3238a08b967e7e8e4938c61b2f/index.m3u8
+FX,http://f21.ub1200.com/live/1551/08b01c2c74e3422747c5029d8389966a/index.m3u8
+FXX,http://f21.ub1200.com/live/1552/5852002a153815ba1a8fd0665175557d/index.m3u8
+Lifetime,http://f21.ub1200.com/live/1553/86bc5cd1f001ff36ffa94513c9d2a00d/index.m3u8
+Bet,http://f21.ub1200.com/live/1554/ef7eab7b70f6994f05629aba10b24a67/index.m3u8
+CNBC,http://f21.ub1200.com/live/1555/1d44553ec05ea7478dc63ff6b9aa4103/index.m3u8
+Comedy,http://f21.ub1200.com/live/1556/8046c22cc3d88bee3fea583024809c46/index.m3u8
+CW,http://f21.ub1200.com/live/1557/886c8a346c0e218cefb4bfc1d143652e/index.m3u8
+Animal,http://f21.ub1200.com/live/1558/89a1428582c45f77b099ca9a2b82e393/index.m3u8
+AE,http://f21.ub1200.com/live/1559/e5b5bdeee55be792cd47401409d5380a/index.m3u8
+Freeform,http://f21.ub1200.com/live/1560/be66ef85ff373beebff9cd8612bc374e/index.m3u8
+FX Movie,http://f21.ub1200.com/live/1561/69085fafaf71d6db2f306731d14d1681/index.m3u8
+Game Show Network,http://f21.ub1200.com/live/1562/f9974129d5f57ea702be0a776e7bb5ab/index.m3u8
+HLN,http://f21.ub1200.com/live/1563/41eb2abca96aaa461ffc96a8b0cb5b36/index.m3u8
+Investigation Discovery,http://f21.ub1200.com/live/1564/21f76af499641d0f6b58d95264a9bfe7/index.m3u8
+Lifetime Movie Network,http://f21.ub1200.com/live/1565/259df99309ec34e0a6c889e9c07eca71/index.m3u8
+Motor Trend,http://f21.ub1200.com/live/1566/3e141b64b9cae87aaa37dd7f838c4ce3/index.m3u8
+Science,http://f21.ub1200.com/live/1567/a010424eba22c647232c48a4664ed4a8/index.m3u8
+Showtime,http://f21.ub1200.com/live/1568/e832538396c2570b086a8aa5d4c94b73/index.m3u8
+StarZ,http://f21.ub1200.com/live/1569/d2632d0c3b08c45ff7974568378ef847/index.m3u8
+Telemundo,http://f21.ub1200.com/live/1570/125c6be099855719adcaf1db0de72bec/index.m3u8
+USA Network,http://f21.ub1200.com/live/1571/3d0d6edec8a9f8edcbeef3f477b026f6/index.m3u8
+wwe-network,http://f21.ub1200.com/live/1572/8f26b26170dbebcd95235b3a16a92d6c/index.m3u8
+Nickelodeon,http://f21.ub1200.com/live/1573/00a8becda456420523d6da9b7c55c8d9/index.m3u8
+One America News Network,http://f21.ub1200.com/live/1574/0dfc0f913e3119cf96290604bf912cc7/index.m3u8
+Oprah Winfrey Network,http://f21.ub1200.com/live/1575/70f72a8f0cd27626280f661e5af9027e/index.m3u8
+Oxygen,http://f21.ub1200.com/live/1576/dbe4bb2754615ab51d1d0ed0918dc047/index.m3u8
+Paramount,http://f21.ub1200.com/live/1577/d627a32257e513cb4a6a693b2149137b/index.m3u8
+DisneyJr,http://f21.ub1200.com/live/1578/981518c6cdae1a0c5b2320c8e09bcfe2/index.m3u8
+DisneyXD,http://f21.ub1200.com/live/1579/93f3971b2fe3aba0daef1177fa7b6fe5/index.m3u8
+Destination Americ,http://f21.ub1200.com/live/1580/4fe26ce5845626445b1b732eda66d6a2/index.m3u8
+Disney,http://f21.ub1200.com/live/1581/ffa5eba6ad56887ab22f87b6b6838164/index.m3u8
+FOXHD,http://f21.ub1200.com/live/1506/086a1fa169259df3099b4370a3867ebd/index.m3u8
+CNN,http://f21.ub1200.com/live/1507/d1092195d2e4c979886d818fad3830c7/index.m3u8
+ABC News,http://f21.ub1200.com/live/1508/8d5d00949652d082a9d49eae69065899/index.m3u8
+NBC,http://f21.ub1200.com/live/1509/5da827226c3fcd7a769f02b4525d2db0/index.m3u8
+Fox News,http://f21.ub1200.com/live/1510/c708cc13d7c275b78eb6d3b1eae8b450/index.m3u8
+Fox Business,http://f21.ub1200.com/live/1511/7b372c965796a8b1b88fb9710d4b6e62/index.m3u8
+Hbo Family,http://f21.ub1200.com/live/1512/5f0ce7c9b81b32d13c755a1a4078de90/index.m3u8
+Hbo East,http://f21.ub1200.com/live/1513/e49dbb75e0b533bcb915d04db40c6504/index.m3u8
+Hbo One,http://f21.ub1200.com/live/1514/7c86ff0b9441dd1af129a794319829c0/index.m3u8
+Travel ch,http://f21.ub1200.com/live/1515/e50b6e988841dd95e4796b3ef3706555/index.m3u8
+Coking,http://f21.ub1200.com/live/1516/891363dbe552c41cc0146a4b5c1d8290/index.m3u8
+Bloomberg,http://f21.ub1200.com/live/1517/e1d76c20a6267639a76a4cb00c11b20a/index.m3u8
+Cinemax,http://f21.ub1200.com/live/1518/2015f1a560b96ff57b64868e4d7ef33b/index.m3u8
+Tennis chan,http://f21.ub1200.com/live/1519/8ae2c6aa520ac6e93d259134de22c43f/index.m3u8
+Nat Geo,http://f21.ub1200.com/live/1520/100c25b2d31cbccbb55160da19617162/index.m3u8
+Nat Geo Wild,http://f21.ub1200.com/live/1521/1311a0ad0e4212b34251a6410df8298d/index.m3u8
+Babytv,http://f21.ub1200.com/live/1522/42d519479cee2b2e63df916696a9d7ce/index.m3u8
+Mlb net,http://f21.ub1200.com/live/1523/567087ee2a2abe2c6a527d6c37ed4c70/index.m3u8
+TNT,http://f21.ub1200.com/live/1524/c2047f6ea6705e0b408d9c9593d19c20/index.m3u8
+Bravo,http://f21.ub1200.com/live/1525/3fed42e579b94e9891cdccee0169d851/index.m3u8
+Food network,http://f21.ub1200.com/live/1526/42122459375f4548b0a0e555aafe6367/index.m3u8
+Fight network,http://f21.ub1200.com/live/1527/721663630b0605ee5971f4471a791fcc/index.m3u8
+Diy network,http://f21.ub1200.com/live/1528/a23250627870d3701f073a96b165d0be/index.m3u8
+Discovery,http://f21.ub1200.com/live/1529/47d2477af60111d5598857447b97333a/index.m3u8
+History,http://f21.ub1200.com/live/1530/b7bd2da13f92ca15be5777f58e617f6a/index.m3u8
+World Fishing,http://f21.ub1200.com/live/1531/04c6b65e4642ca72b646b7a2e0c5a3f0/index.m3u8
+VH1,http://f21.ub1200.com/live/1532/d0a83bcc7f9b80cfbcb4bb6d1ab42f9e/index.m3u8
+TLC,http://f21.ub1200.com/live/1533/721f44a591a57c8d682442fe465fd3a0/index.m3u8
+NHL net,http://f21.ub1200.com/live/1534/8b270c18077c69062405a14e7c6dca66/index.m3u8
+Hallmark,http://f21.ub1200.com/live/1535/72eabc07af16a2bec653cc0c10bc074f/index.m3u8
+CNN頭條新聞,http://f10.pp15000.com/live/43/2a09a3517e76e0f018a38c471f51adcb/index.m3u8
+CNN國際新聞,http://f10.pp15000.com/live/420/5f05e0060f144152b9c19907a5856089/index.m3u8
+ABC News,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609926143/ei/njH1X7m_O8LGkgamwqCAAQ/ip/198.255.103.16/id/w_Ma8oQLmSM.5/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-q4fl6nsl.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/hcs/yes/initcwndbps/3140/mh/wG/mm/44/mn/sn-q4fl6nsl/ms/lva/mv/m/mvi/4/pl/24/rmhost/r3---sn-q4fl6nsl.googlevideo.com/shardbypass/yes/dover/11/keepalive/yes/mt/1609904191/sparams/expire
+NBC2,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609928603/ei/Ozv1X5G8H4LSkgaekY24Aw/ip/198.255.103.16/id/tPeUHECNLKs.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-q4fl6nl7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/2980/mh/4z/mm/44/mn/sn-q4fl6nl7/ms/lva/mv/m/mvi/4/pl/24/dover/11/keepalive/yes/mt/1609906595/sparams/expire
+Newsmax,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609926862/ei/bjT1X8XhHITokgbP8IbgCg/ip/198.255.103.16/id/39WrSskl3XE.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r5---sn-q4fl6nl7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/hcs/yes/initcwndbps/3230/mh/Ym/mm/44/mn/sn-q4fl6nl7/ms/lva/mv/m/mvi/5/pl/24/shardbypass/yes/smhost/r5---sn-q4fl6ne7.googlevideo.com/dover/11/keepalive/yes/mt/1609904914/sparams/expire
+First TV,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609929443/ei/gz71X8WHGoepkgai-qqQCg/ip/198.255.103.15/id/EeMpnAZxZno.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-a5mekney.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/12090/mh/16/mm/44/mn/sn-a5mekney/ms/lva/mv/m/mvi/3/pl/24/dover/11/keepalive/yes/mt/1609907555/sparams/expire
+People,https://peopletv-oo.akamaized.net/playlist720p.m3u8
+Right Now,https://feed.rightnowtelevision.com/live/smil:rntv.smil/chunklist_w923751262_b4192000_sleng.m3u8
+Bloomberg Television,http://f23.ub1400.com/live/1058/035634766765dcc339b438063f804200/index.m3u8
+American Horrors,http://f23.ub1400.com/live/1054/df010b11347786f175dd3ce9c890a6af/index.m3u8
+30A TV,http://f23.ub1400.com/live/1052/820bb75229215dd352c02b146e87d215/index.m3u8
+Atlanta,http://f23.ub1400.com/live/1055/0a836db119dc4860d1ae40428ff1e265/index.m3u8
+Panama City,http://f23.ub1400.com/live/1056/703b0e56f671648d8df3473405a25b74/index.m3u8
+Pawleys Island,http://f23.ub1400.com/live/1057/1a165a7911ffc2a15227c84342d93062/index.m3u8
+NewsNet,https://broadcastla.yournewsnet.com/master/newsnetweb/chunks.m3u8
+BT Sport ESPN,http://f22.ub1300.com/live/168/58ed1346725ab2f1018f531d1e8ac89f/index.m3u8
+BT Sport 2,http://f22.ub1300.com/live/166/2c6520f72500f03557b5d8c7533781c9/index.m3u8
+BT Sport 3,http://f22.ub1300.com/live/167/b9ec2973549350790e8840f61ace5698/index.m3u8
+BT Sport 1,http://f22.ub1300.com/live/165/fc4311a51d25581fb1b524d255195509/index.m3u8
+IFC,http://f22.ub1300.com/live/1362/bfa5baed2c80432f4300d5cba7e43f91/index.m3u8
+ESPN NEWS,http://f22.ub1300.com/live/1363/7f0be3bcf0c23749bdd06cc0aeb2a944/index.m3u8
+CBS Sport,http://f22.ub1300.com/live/1364/1056be82f7ee29507dc6c6eb4cb81efa/index.m3u8
+Fight Box,http://f22.ub1300.com/live/1365/a61a5e81fba5b97aa5e7ce5f245b9832/index.m3u8
+Fight Network,http://f22.ub1300.com/live/1366/3946fb7572fb428ffd720153a10f5093/index.m3u8
+Sportsman,http://f22.ub1300.com/live/1367/2d450057cfa430f937cc3aa1cbb7a741/index.m3u8
+Outdoor,http://f22.ub1300.com/live/1368/a8e356d77c20c151c4a44a31ee8541f6/index.m3u8
+SEC Network,http://f22.ub1300.com/live/1369/d52488e847caf30c0827d0dab94dcee9/index.m3u8
+PBS Kids,http://f22.ub1300.com/live/1370/92e36d823eea57a3ce176eda6a5f89c7/index.m3u8
+PBS,http://f22.ub1300.com/live/1371/dba44da6b92904fe7fe813b6b54898f0/index.m3u8
+WGN,http://f22.ub1300.com/live/1372/023a7d917c78a122521fc23250b7b411/index.m3u8
+FX,http://f22.ub1300.com/live/1373/fb945e9c465d858f907d634bc9bb89be/index.m3u8
+FXX,http://f22.ub1300.com/live/1374/187c085eaca9193795af9d711bbb036f/index.m3u8
+TruTV,http://f22.ub1300.com/live/1375/a911d6583f2f12ab5daa44f1f3a1d3b3/index.m3u8
+Fuse,http://f22.ub1300.com/live/1376/e9041a1e868d6a6f682edd05ac305d6f/index.m3u8
+Oxygen,http://f22.ub1300.com/live/1377/9e9fbedf6c6bfef484735f45e695edde/index.m3u8
+Food Network,http://f22.ub1300.com/live/1378/6b3e9cb031d312d44330c078b0cb1c3a/index.m3u8
+DIY Network,http://f22.ub1300.com/live/1379/c2ab07a91de83f2e707ce8a32108b78b/index.m3u8
+FX Movie,http://f22.ub1300.com/live/1380/e93ecdc4f776fb931e159593c563b969/index.m3u8
+Comet,http://f22.ub1300.com/live/1381/416e617001b9e578f615f35830838e77/index.m3u8
+CNN USA,http://f22.ub1300.com/live/1102/e846c6e7795447a117639dc20936c5ad/index.m3u8
+FOX News,http://f22.ub1300.com/live/1103/66f3620fa113acbe3ecea4377aa9accc/index.m3u8
+NBC,http://f22.ub1300.com/live/1217/e38800792dd9ed61b4d1e596b14f47b7/index.m3u8
+FOX,http://f22.ub1300.com/live/1218/ee07b1342d2a08a63ceba2c962a036a0/index.m3u8
+CNBC,http://f22.ub1300.com/live/1106/c34a491bbf6e72c9050ff3fd5794e961/index.m3u8
+5 Star Max,http://f22.ub1300.com/live/1174/ac0df02db58e709eb05dae60fe96459d/index.m3u8
+Action Max,http://f22.ub1300.com/live/1175/e3650a5f96cdb760bffc694fafc8a323/index.m3u8
+MoreMax,http://f22.ub1300.com/live/1176/8ee9f41b93b5fc69f7965f6ee8499d3d/index.m3u8
+Hallmark Channel,http://f22.ub1300.com/live/1177/b2dc46244b7f75f5785c12024dac2ec8/index.m3u8
+Hallmark Drama,http://f22.ub1300.com/live/1178/012846fab576d15a5fa11e98fa71e6a3/index.m3u8
+Hallmark Movie,http://f22.ub1300.com/live/1179/93853df292f4a8a2a0d064eaafc60b56/index.m3u8
+TCM,http://f22.ub1300.com/live/1180/733b2137905528b6dc9dd218609ea621/index.m3u8
+Starz in Black,http://f22.ub1300.com/live/1181/8b65c411c092a1fdb800c6e69a2d9629/index.m3u8
+ESPN 1,http://f22.ub1300.com/live/1182/debabe84353a00045f7d94a7e6e73be4/index.m3u8
+ESPN 2,http://f22.ub1300.com/live/1183/72203bb0f4f0903e1d12523547f7b624/index.m3u8
+NBC Sport,http://f22.ub1300.com/live/1184/3156f7a80b8d70cd89d7d5413e24030e/index.m3u8
+NBA TV US,http://f22.ub1300.com/live/1185/947a08db19f6abd6cc8361089802a047/index.m3u8
+Fox Sport 1,http://f22.ub1300.com/live/1186/906e3891de7ff7a509b72582a4ce1c06/index.m3u8
+Fox Sport 2,http://f22.ub1300.com/live/1187/61cce61541b12ca718dbbce3f975ac7f/index.m3u8
+Tennis,http://f22.ub1300.com/live/1188/5d6b0ea268a84a14979cac31b7f1154e/index.m3u8
+NFL Network,http://f22.ub1300.com/live/1189/497ff1a5760f1f8fd2715b01b8031b64/index.m3u8
+Golf,http://f22.ub1300.com/live/1190/2ecf84f86ba66cb6bfb4e83e62e8087c/index.m3u8
+WWE,http://f22.ub1300.com/live/1191/403df8ac33ba9306fcc1fc1f6516c45d/index.m3u8
+UFC PASS,http://f22.ub1300.com/live/1192/ed65a60a0ff3674efc8ba9c8e5e5a382/index.m3u8
+Willow,http://f22.ub1300.com/live/1193/00ae139e4e01302c20988600ea69db2e/index.m3u8
+NHL Network,http://f22.ub1300.com/live/1194/c8ad4e838c2c459ca3e821b9cd56af81/index.m3u8
+Bein Sports USA,http://f22.ub1300.com/live/1195/f470f3d0d03d11482bad141809ab1ceb/index.m3u8
+ESPN U,http://f22.ub1300.com/live/1196/a5c54b2bf8d31cf059e51ac5131e9be0/index.m3u8
+Big Ten Network,http://f22.ub1300.com/live/1197/875932ec13b891088fc9eab2d0dc3e72/index.m3u8
+Discovery Channel,http://f22.ub1300.com/live/1198/82472fcb66774476ca476fdf6d9b8936/index.m3u8
+Motor Trend,http://f22.ub1300.com/live/1199/9a2c0fe4a42c0d4c1cc04c24c5384aa1/index.m3u8
+National Geographic,http://f22.ub1300.com/live/1200/5da5e087f15bfddc473a12d5298c7700/index.m3u8
+Nat Geo Wild,http://f22.ub1300.com/live/1201/360f8887b3e74b4446f040a64dbc3328/index.m3u8
+Investigation Discovery US,http://f22.ub1300.com/live/1202/6078485d2ede1a7ee64685e23d384b8a/index.m3u8
+Animal Planet,http://f22.ub1300.com/live/1203/0ab8430a24c6a17c5802ab6ef55ceb77/index.m3u8
+History,http://f22.ub1300.com/live/1204/63cf79c3517d400f6c91315007738da5/index.m3u8
+SMITHSONIAN,http://f22.ub1300.com/live/1205/a9e03ce516f1624215c235f9036659c9/index.m3u8
+TLC,http://f22.ub1300.com/live/1206/7290d9d32918945151d0c65df467ecda/index.m3u8
+Science,http://f22.ub1300.com/live/1207/ef22bf52f18204b5c5c1b5efb8f16530/index.m3u8
+Disney,http://f22.ub1300.com/live/1208/1ec7ff17071ae038b697c406c1701340/index.m3u8
+Disney XD,http://f22.ub1300.com/live/1209/6672b0dececd24cd5e49976852b6470a/index.m3u8
+Disney Junior,http://f22.ub1300.com/live/1210/82bfa84464d28ce2928cbd1d510d4f0f/index.m3u8
+Cartoon Network US,http://f22.ub1300.com/live/1211/c38269624b9d5de4b2151882dbd4cd9f/index.m3u8
+Nickelodeon US,http://f22.ub1300.com/live/1212/36299e1cb30b0e3eaf042ec40bca3e2a/index.m3u8
+Nick Junior,http://f22.ub1300.com/live/1213/bc466358751ff0edf378e9f2aea5fe6d/index.m3u8
+Boomerang,http://f22.ub1300.com/live/1214/647bb71af7f1c04fc5a7bfbd54282703/index.m3u8
+Universal Kids,http://f22.ub1300.com/live/1215/155c54addeeb9abd0e88f750ec5cf198/index.m3u8
+CBS,http://f22.ub1300.com/live/1219/766494c4b2c32c20d2f5c1fa507d82fc/index.m3u8
+CW,http://f22.ub1300.com/live/1220/0dd1e7faafcc28e28b85d4892b410c6c/index.m3u8
+SYFY,http://f22.ub1300.com/live/1221/d933cee061fb26bf4eb6b697de2336b1/index.m3u8
+E!,http://f22.ub1300.com/live/1222/dbda1532c2fe283acd080de9a255a2f5/index.m3u8
+Comedy Central,http://f22.ub1300.com/live/1223/4c99c2f97bd379d4b87106d533e51d08/index.m3u8
+TNT US,http://f22.ub1300.com/live/1224/3b19f79fd37780aadb79eefedc385061/index.m3u8
+Bravo US,http://f22.ub1300.com/live/1225/4da89185d045b06462ee3d79f1548e73/index.m3u8
+LifeTime US,http://f22.ub1300.com/live/1226/8236af218d1f81c6b36285e30272b9a1/index.m3u8
+Arts and Entertainment,http://f22.ub1300.com/live/1227/6ad30842b040055a052aa01ab51d7cdf/index.m3u8
+AMC,http://f22.ub1300.com/live/1228/8deabb848fde51ed183d743ac531df24/index.m3u8
+WE TV,http://f22.ub1300.com/live/1229/d71d9d8d3381b63149c6c322920b2729/index.m3u8
+USA Network,http://f22.ub1300.com/live/1230/829d144c4b4dcd2bab86f5c129abbc60/index.m3u8
+BET,http://f22.ub1300.com/live/1231/09d0a022c6271773de1b571ef36651b2/index.m3u8
+Lifetime Movie Network,http://f22.ub1300.com/live/1232/b07800d7fdc586437187ccfdd8e30ba7/index.m3u8
+VH-1,http://f22.ub1300.com/live/1233/9d828e0d15ad21dc148571cfe5c6a4bb/index.m3u8
+TBS,http://f22.ub1300.com/live/1234/39df352457e58c1c4ef0e0b9d74e00f5/index.m3u8
+OWN US,http://f22.ub1300.com/live/1235/e79eed6ed63e4292b5ea1ef2411e5ae3/index.m3u8
+GSN,http://f22.ub1300.com/live/1236/0d9cadfe0e9ae243bfdc4d4124c7fbab/index.m3u8
+HGTV US,http://f22.ub1300.com/live/1237/af1ca48ffe24ca8c0c9a85aedea8f787/index.m3u8
+Cooking Channel,http://f22.ub1300.com/live/1238/b62cf926ed579160a21bc118eb058e68/index.m3u8
+MTV US,http://f22.ub1300.com/live/1239/80589163c915072f8e36ef0159c32cfc/index.m3u8
+FYI,http://f23.ub1400.com/live/1240/66e11d62c6dd71794c4d896fd8e4d369/index.m3u8
+BabyTV,http://f23.ub1400.com/live/1241/163e811649e9cd292dfe752efb1a57e8/index.m3u8
+TVB1,http://f23.ub1400.com/live/1242/d4af8c10281d76d1cf0d1db2fc037745/index.m3u8
+TVB DRAMA,http://f23.ub1400.com/live/1243/7551913c89284d3c890c177eb8ed10fd/index.m3u8
+TVBJ1,http://f23.ub1400.com/live/1244/5b30ae163b145d81498cc5db1ce68670/index.m3u8
+TVBE,http://f23.ub1400.com/live/1245/ef239952e3c3936bee061e24cb5abf42/index.m3u8
+NOWTV,http://f23.ub1400.com/live/1246/5a6e535a1cf103e3b5220db70d19cd7b/index.m3u8
+MSNBC,http://f22.ub1300.com/live/1104/2aa4920fb6c353b7af38a1706f0c4088/index.m3u8
+The Weather Nation,http://f23.ub1400.com/live/1105/515440c60bdcad853c13f8f01e45178c/index.m3u8
+Bloomberg,http://f23.ub1400.com/live/1107/54192c21ec342835bb4f1e4daf304b94/index.m3u8
+Fox Business,http://f23.ub1400.com/live/1108/d5ca00f49c114f4d9c4556095b86076e/index.m3u8
+HBO Comedy,http://f23.ub1400.com/live/1109/1bb42a4f08afe6145ad397b0a3f93036/index.m3u8
+HBO 1 US,http://f23.ub1400.com/live/1110/7fc382d5f797c8463f89edbf6a27fc3d/index.m3u8
+HBO 2 US,http://f23.ub1400.com/live/1111/8c649919614fa19a9e76f8bdfa8ddee2/index.m3u8
+HBO Signature,http://f23.ub1400.com/live/1112/060faf3417c367071c182424c0cfdb2c/index.m3u8
+HBO Family,http://f23.ub1400.com/live/1113/59354eab1d1c68618afc1142627499de/index.m3u8
+ShowTime 1,http://f23.ub1400.com/live/1114/280f7a182a4f96337ed49f8047dcf910/index.m3u8
+ShowTime 2,http://f23.ub1400.com/live/1115/7be08c3c7d8f36c7b1cf937b86b782ba/index.m3u8
+ShowCase US,http://f23.ub1400.com/live/1116/db7ee4b269d274428de4b2ea9126518d/index.m3u8
+Starz,http://f23.ub1400.com/live/1117/d06b94dc326c3e629758fc77b8939c24/index.m3u8
+Starz Comedy,http://f23.ub1400.com/live/1118/7e5994b709c5f9147654cf546f1f7a20/index.m3u8
+Starz Edge,http://f23.ub1400.com/live/1119/ea9203762b0827a2ab96ddb225b25716/index.m3u8
+Starz Kids Family,http://f23.ub1400.com/live/1120/1af3325eab0ba4300e66ce69822f1d13/index.m3u8
+Starz Encore,http://f23.ub1400.com/live/1121/b37ef1f45dd5854957a1fa74b4e97d96/index.m3u8
+Starz Encore Westerns,http://f23.ub1400.com/live/1122/f06f04169aadf092da7897c43127a688/index.m3u8
+Cinemax,http://f23.ub1400.com/live/1123/5eac34551044a7d55b39a3ccc3086738/index.m3u8
+CP 24 Canada,http://f20.ub1100.com/live/1247/2827fba6a04b575dd3783c081788cf66/index.m3u8
+The Weather Network,http://f20.ub1100.com/live/1251/c37d793cbde741eb97e5cbd6ebc46b80/index.m3u8
+CBC,http://f20.ub1100.com/live/1252/a3a995e029126f4d4f5b029d3610696a/index.m3u8
+CTV,http://f20.ub1100.com/live/1253/5607b250af127f5d229a96f0cfc59743/index.m3u8
+CHCH,http://f20.ub1100.com/live/1256/17bb94b0f5d7be6a97d22d68e970c08b/index.m3u8
+CTV 2,http://f20.ub1100.com/live/1257/33a5dcef3683a196610c7edd083b0aec/index.m3u8
+OMNI 1,http://f20.ub1100.com/live/1258/1d881912e0781aec6451763375245984/index.m3u8
+OMNI 2,http://f20.ub1100.com/live/1259/2d88121de35e3abee28af144548a693b/index.m3u8
+TVO,http://f20.ub1100.com/live/1260/1e75d7e8c59f000ab301e6d68284fa02/index.m3u8
+Discovery Canada,http://f20.ub1100.com/live/1261/54ee21dfc28027b0291a1762b67b1da0/index.m3u8
+TLC Canada,http://f20.ub1100.com/live/1262/0aafe298fe814fbe163be2136ccb852b/index.m3u8
+Love Nature,http://f20.ub1100.com/live/1263/347d2e2b384150ba784986858ac9ccc5/index.m3u8
+Food Network Canada,http://f20.ub1100.com/live/1265/481be1b04d70bfecca803d4e33f851b9/index.m3u8
+Cooking Channel Canada,http://f20.ub1100.com/live/1266/393b40016e4b1d3fbab24f8332b99938/index.m3u8
+CTV Comedy,http://f20.ub1100.com/live/1267/9df8fea7adf9d6c10ac1125af3ee52c4/index.m3u8
+CTV Sci-Fi,http://f20.ub1100.com/live/1268/fe11e95a889759b255f47db3f6ce6864/index.m3u8
+Crave 1,http://f20.ub1100.com/live/1269/fb21c1391408381aea78cf2080fbaf83/index.m3u8
+Crave 2,http://f20.ub1100.com/live/1270/308f044aee38990e0d4ba578af677723/index.m3u8
+Crave 3,http://f20.ub1100.com/live/1271/e08b689548efd9adfa511238437c64d5/index.m3u8
+TSN 3,http://f20.ub1100.com/live/1275/336ca865803b6538efd05e0232a1cdfb/index.m3u8
+TSN 4,http://f20.ub1100.com/live/1276/5cdbc0d69e3fa47320a5fae645722e75/index.m3u8
+TSN 5,http://f20.ub1100.com/live/1277/fcb1455915553dbd49e171375fc34455/index.m3u8
+SportNet ON,http://f20.ub1100.com/live/1278/08f817ff2d5ee804059d2377abf4b554/index.m3u8
+SportNet One,http://f20.ub1100.com/live/1279/5c5c91500981f43d0bdc9849e6c78588/index.m3u8
+SportNet World,http://f20.ub1100.com/live/1280/d6447586017e0058063727a87d89a2a2/index.m3u8
+SportNet 360,http://f20.ub1100.com/live/1281/70c7cfab8a3035ed4b796377e10de722/index.m3u8
+NBA CA,http://f20.ub1100.com/live/1282/dbd96e8ec5b2a1274466bc4b6e01c433/index.m3u8
+TreeHouse,http://f20.ub1100.com/live/1283/ce858b5644e04d9b23e200f53099b586/index.m3u8
+Teletoon,http://f20.ub1100.com/live/1284/7d8f5297affe9e02179aa3353da0437e/index.m3u8
+YTV,http://f20.ub1100.com/live/1285/5932b62a2bbfd6a93e9a35494ecd175a/index.m3u8
+新時代東部,http://f20.ub1100.com/live/1286/9e2f12621fff3cb37582a5dd7cb69412/index.m3u8
+新時代西部,http://f20.ub1100.com/live/1287/6d5e1639049f610af46f780526477f28/index.m3u8
+城市電視,http://f20.ub1100.com/live/1289/239f9a49cf8a7fbb5ac5078453b844d1/index.m3u8
+新時代2,http://f20.ub1100.com/live/1288/580a1656149bffa948593f8360cd89be/index.m3u8
+TSN 2,http://f20.ub1100.com/live/1274/124745a43a786a29d527a5e94696f304/index.m3u8
+TSN 1,http://f20.ub1100.com/live/1273/793cf02e1a24d536b18e5a23fd13d6a6/index.m3u8
+Global,http://f20.ub1100.com/live/1254/ce754abec81da92a13fb428876558ea6/index.m3u8
+City,http://f20.ub1100.com/live/1255/966cf7d26e6d4852f4dc82a9400d3afb/index.m3u8
+HGTV Canada,http://f20.ub1100.com/live/1264/eb4937ddf4ff1ff15c525305731e38e4/index.m3u8
+Business Network News,http://f20.ub1100.com/live/1250/d23971292a6aecb6d5bb6a825e5c5687/index.m3u8
+CTV News,http://f20.ub1100.com/live/1249/ac129f51f0e4ce5ab8a272a3262cfd7c/index.m3u8
+CBC News,http://f20.ub1100.com/live/1248/f30e58aff283cfa6b3c510efaa7c50b9/index.m3u8
+Crave 4,http://f20.ub1100.com/live/1272/1ca754062d6290426d46a8e3e39321a0/index.m3u8
+BBC one,http://f22.ub1300.com/live/1382/4b39cec2f1ebf92af6d6ed9992ad1615/index.m3u8
+BBC four cbeebies,http://f22.ub1300.com/live/1383/40a09beaa09fa0864a7910875e719ff0/index.m3u8
+BBC three cbbc,http://f22.ub1300.com/live/1384/cf8c73157fad5ca99eeb3389beefe9bd/index.m3u8
+BBC two,http://f22.ub1300.com/live/1385/2e4072a641396f5bf138d47662297f14/index.m3u8
+True entertainment,http://f22.ub1300.com/live/1386/269fb90fb1c459c91363a416fb90390f/index.m3u8
+Discovery turbo,http://f22.ub1300.com/live/1387/773120c5c688ca1b01c95b7e53d5fdae/index.m3u8
+Sky greats,http://f22.ub1300.com/live/1388/5aa9a1440926451d4ee5db9d9d909457/index.m3u8
+Hoem and health,http://f22.ub1300.com/live/1389/7db3ed398d2019b5f6a2d75f67fb0f55/index.m3u8
+Channel 4,http://f22.ub1300.com/live/1390/605886b458a719845619bac5eef2f857/index.m3u8
+Channel 5,http://f22.ub1300.com/live/1391/785c37dfa4faf5047ab2c8a1d8da279e/index.m3u8
+E ent,http://f22.ub1300.com/live/1392/337e4fdafd51bcb98dc9a9288af89ca8/index.m3u8
+BBC red button,http://f22.ub1300.com/live/1393/9f19b300bcab5666e56c261c3a2fc99b/index.m3u8
+Citv,http://f22.ub1300.com/live/1394/179119d0df21fdcb51885d7596a4aa96/index.m3u8
+Sony tv,http://f22.ub1300.com/live/1395/7a7df73bc837927210fb1fc1fad23737/index.m3u8
+Nickelodeon,http://f22.ub1300.com/live/1396/1225add3183f7cb8cd85d4146e562837/index.m3u8
+E4,http://f22.ub1300.com/live/1397/38accd1f9205ac2407766cfe7ff2b3f5/index.m3u8
+Alibi,http://f22.ub1300.com/live/1398/f6ef5c0601e94616cea0972d46b5b786/index.m3u8
+CBS action,http://f22.ub1300.com/live/1399/db214efc8492b18512d13980c8555b3d/index.m3u8
+5 star,http://f22.ub1300.com/live/1400/74b74735b8a3d9055bede940e0e3afe7/index.m3u8
+Itv 1,http://f22.ub1300.com/live/1401/21e02d7824a63ea569360acbc37577eb/index.m3u8
+Itv 2,http://f22.ub1300.com/live/1402/88407bc8959fbc06a8abaf4f6416a5fa/index.m3u8
+Itv 3,http://f22.ub1300.com/live/1403/5e7a598f8bed1286ed9035abcc4608f7/index.m3u8
+Itv 4,http://f22.ub1300.com/live/1404/1172174c014b23060dedfb6201ecb362/index.m3u8
+4seven,http://f22.ub1300.com/live/1405/29b4be267b8e1fb26d89e76d083a2e98/index.m3u8
+Sky docu,http://f22.ub1300.com/live/1406/e3c0eca6bb6371990018c50019469c0f/index.m3u8
+Russia Today,http://f22.ub1300.com/live/1407/fff3007ccb1baf61515247188896fa90/index.m3u8
+Comedy Central,http://f22.ub1300.com/live/1408/2227774b21337030065f5544a769b51b/index.m3u8
+Rte1,http://f22.ub1300.com/live/1409/318ca0785c01e51492eacc656886f554/index.m3u8
+Rte2,http://f22.ub1300.com/live/1410/71964edc5a21c0cf7c8a75466ea9f850/index.m3u8
+Premiersp,http://f22.ub1300.com/live/1411/e6f6105a544fc4bb60015387293c6d7c/index.m3u8
+Freesports,http://f22.ub1300.com/live/1412/fcaeda3980ee1f04381c1a5fe5608d5b/index.m3u8
+History,http://f22.ub1300.com/live/1413/3d8aff57a93f47d3dcca904c96690527/index.m3u8
+CNBC,http://f22.ub1300.com/live/1414/8c55e0b4dbcd0ddf1f0ae31a111c77b8/index.m3u8
+Aljazeera,http://f22.ub1300.com/live/1415/d451c2e1a0997abb0303e6d1a7a39484/index.m3u8
+Tv3 virgin,http://f22.ub1300.com/live/1416/d166fe85e9595ebe618d35b7dda3e14f/index.m3u8
+Home,http://f22.ub1300.com/live/1417/90600a1b4e4caaa186b076644a7b9f7e/index.m3u8
+Dave,http://f22.ub1300.com/live/1418/b1211ae08670a329219ba5d955bcaf94/index.m3u8
+Film 4,http://f22.ub1300.com/live/1419/7470d083b4d67561fb787fbc015792fa/index.m3u8
+More 4,http://f22.ub1300.com/live/1420/85873f7791948951acbb252fa522f7f3/index.m3u8
+Food Network,http://f22.ub1300.com/live/1421/ef6382cc2717af4daa2a7fd4c1f27bea/index.m3u8
+Gold,http://f22.ub1300.com/live/1422/dc70b8fcdb3687ce5c9fe4f27a9f8e0d/index.m3u8
+Syfy,http://f22.ub1300.com/live/1423/3ffac41df51b763f2ba475cac3e99fb7/index.m3u8
+Discovery,http://f22.ub1300.com/live/1424/9816e098fcb545995f0ab0c98fea6835/index.m3u8
+Discovery science,http://f22.ub1300.com/live/1425/d57a95855ddadbe269f95f3d818e204d/index.m3u8
+Discovery investigation,http://f22.ub1300.com/live/1426/d8ddf86e24940df9a60b5d64dbf7d52b/index.m3u8
+Tg4,http://f22.ub1300.com/live/1427/3599af4b0d87af3f670fb3019f038f44/index.m3u8
+Real live,http://f22.ub1300.com/live/1428/53c7f06deed3b79092f4cc692038fc21/index.m3u8
+Cartoonito,http://f22.ub1300.com/live/1429/a2861f4580b9d7ad171e4e55c3bfa9d5/index.m3u8
+Watch,http://f22.ub1300.com/live/1430/e57ad42644d2e107e0553a7b4395debb/index.m3u8
+Challenge,http://f22.ub1300.com/live/1431/5a66114454c80050f67172ab00df88e7/index.m3u8
+Vault,http://f22.ub1300.com/live/1432/189178fa13d1409d1758229d1be455f0/index.m3u8
+Pick,http://f22.ub1300.com/live/1433/e58a31c2d860c688489c461e2c018983/index.m3u8
+Nat Geo Wild,http://f22.ub1300.com/live/1434/60ef10bbbd555fd36b34d7ccdc66478d/index.m3u8
+Nick jr,http://f22.ub1300.com/live/1435/c4c3e53644c15ecf4be0a56a00ebf9e8/index.m3u8
+Quest,http://f22.ub1300.com/live/1436/6b061c7c1c825eaffaa148001fbe4ae5/index.m3u8
+BBC World News,http://f13.pp16000.com/live/421/838e56d0478310b3a25e8230c93f4eaa/index.m3u8
+Sky News,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609925723/ei/-y_1X8ClIYvxkgbotb6oCw/ip/198.255.103.15/id/9Auq9mYxFEE.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-a5mekn7y.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/us/vprv/1/playlist_type/DVR/initcwndbps/10140/mh/Yv/mm/44/mn/sn-a5mekn7y/ms/lva/mv/m/mvi/3/pl/24/dover/11/keepalive/yes/mt/1609903710/sparams/expire
+Sky News,http://f22.ub1300.com/live/169/b3bdbd86c2b8a0bb411ed89bea31a7ff/index.m3u8
+BBC News,http://f22.ub1300.com/live/164/811ffa07d54a0d4403e37649310c991c/index.m3u8
+BBC World News,http://f22.ub1300.com/live/1308/b857ec48c8dbe8a18a5d2c09324206e4/index.m3u8
+Sky Sport 2,http://f22.ub1300.com/live/171/8cbccb3ffe6f95ed2a6e2269efbddb6f/index.m3u8
+Sky Sports 1,http://f22.ub1300.com/live/172/5f394bdeb323a4db827dd75704650223/index.m3u8
+Sky Sports F1,http://f22.ub1300.com/live/182/4e831aa4f4fdef27b5f40f1647dd7230/index.m3u8
+Sky Sport 3,http://f22.ub1300.com/live/183/3504fede7d018f0ac1b18da74a07d50d/index.m3u8
+Sky Sport 4,http://f22.ub1300.com/live/417/5a55aa7acfe9907866812382164d3011/index.m3u8
+Sky Sport 5,http://f22.ub1300.com/live/418/0f546f89582bf872e4fbecc604d350b4/index.m3u8
+Nickelodeon UK,http://f22.ub1300.com/live/1305/3da92fd96ceb8618364a1dd57f1ee759/index.m3u8
+TOP CALCIO 24,http://f23.ub1400.com/live/1595/1c20c23c00700cb6d697c49780192869/index.m3u8
+Rai Italia,http://f23.ub1400.com/live/1596/01a7744cd91164487a4cd11a04d142f2/index.m3u8
+Sky sport uno,http://f23.ub1400.com/live/1597/32b18e9c7e09454184f531edfbd56fa3/index.m3u8
+Sky sport serie A,http://f23.ub1400.com/live/1598/67c8f92ee122e41eceb83f600186b468/index.m3u8
+Inter TV,http://f23.ub1400.com/live/1599/dad5cfe3656dace58500c16e1fcecf41/index.m3u8
+AGR TV,http://f23.ub1400.com/live/1600/05954f9d65b280c8842eceee977a382e/index.m3u8
+Deejay TV,http://f23.ub1400.com/live/1601/0883726320fcd413f3ea490694163999/index.m3u8
+Style Channel,http://f23.ub1400.com/live/1602/8b032c6a41198a0bc3dd31c91bce0ab8/index.m3u8
+Babayaga TV,http://f23.ub1400.com/live/1603/03662dd62cd6b0f3f297da1ce3ceff87/index.m3u8
+Rai News 24,http://f23.ub1400.com/live/1604/33e6964c56a03ba113ad253cfed088f3/index.m3u8
+CNA 24,http://f23.ub1400.com/live/15/bd0afcd0731c899997e9aaa99566c7f5/index.m3u8
+CERIA,http://f23.ub1400.com/live/1161/e33fd069005731df86f433a3242442df/index.m3u8
+TVN,http://f23.ub1400.com/live/1170/2391baa001a548685cf8faf1bad8242b/index.m3u8
+BERNAMA TV,http://f23.ub1400.com/live/1171/7d17d3c0e373290a8b40403a2750acba/index.m3u8
+Arena,http://f23.ub1400.com/live/1172/d4b750053ef706d3cb0713bcf1ac5c74/index.m3u8
+CRICKET,http://f23.ub1400.com/live/1173/2de7f0ed78d20a80a9093b17a351c848/index.m3u8
+Astro Awani,http://f23.ub1400.com/live/440/3ec9c97932162eaecbf6001f930bbd4f/index.m3u8
+天映頻道,http://f23.ub1400.com/live/441/1dcfeec59a9da403f525edc7c37435dc/index.m3u8
+全佳,http://f23.ub1400.com/live/427/33d899a2b3eb1c7017b63e021829f84e/index.m3u8
+KIX,http://f23.ub1400.com/live/430/03f590abbaa8ab0c457dafc64b3d894e/index.m3u8
+歡喜,http://f23.ub1400.com/live/432/695813be7e42d11e3f6993f68352872a/index.m3u8
+Suria,http://f23.ub1400.com/live/434/a5be0721e520b38b4ae496076703302c/index.m3u8
+雙星,http://f23.ub1400.com/live/431/658e0cc6d3438a1c7776cd52e8120998/index.m3u8
+AEC,http://f23.ub1400.com/live/433/54077858dc73b4fd7c9b4f5daeac299f/index.m3u8
+華麗,http://f23.ub1400.com/live/429/78d842aff3d35618920557e3aa295766/index.m3u8
+TV2,http://f23.ub1400.com/live/436/a171eb93f6ccff69f920a972db4afafe/index.m3u8
+TV3,http://f23.ub1400.com/live/437/9eaa23794f7886ba9994df29a5feb94e/index.m3u8
+TV9,http://f23.ub1400.com/live/438/c12551c5cefacd055cddb6c5baf38147/index.m3u8
+NTV7,http://f23.ub1400.com/live/439/0619317a40ee7d3a7db67409e5a522a0/index.m3u8
+TV8,http://f23.ub1400.com/live/442/df3c951a87b3edf870d9119ce07b62de/index.m3u8
+小太陽,http://f23.ub1400.com/live/443/c2a364df6f51534f74e93203e82ae4df/index.m3u8
+AOD,http://f23.ub1400.com/live/428/8094d3780d9e7b3b38b9885f4a20e605/index.m3u8
+Channel 5,http://f23.ub1400.com/live/449/b0393390d05f1a06a339daa7d29a01ca/index.m3u8
+TV1,http://f23.ub1400.com/live/435/50c8a5fe09eb8018f01319d5e692da62/index.m3u8
+Channel U,http://f23.ub1400.com/live/448/019663cc0b8684d883b256810ea75c0a/index.m3u8
+Astro Sp1,http://f23.ub1400.com/live/444/3f5870c4b97b7e04dc06622f18f4cc58/index.m3u8
+Astro Sp2,http://f23.ub1400.com/live/445/0cbbe8023bc57e5a72d795d6beef68b7/index.m3u8
+Astro Sp3,http://f23.ub1400.com/live/446/74c3abf2daff4c23bf7d5e704d20e424/index.m3u8
+Astro Sp4,http://f23.ub1400.com/live/447/931a691912416176e2cfe4dd63ccb633/index.m3u8
+Channel 8,http://f23.ub1400.com/live/1160/558da3c059fa9a3147a503b453650f3e/index.m3u8
+BOO,http://f23.ub1400.com/live/1437/53000069c98e4d0a23e7f72553bc7bf1/index.m3u8
+CCM,http://f23.ub1400.com/live/1438/f0d0553d89255798820cd835649c7292/index.m3u8
+CELESTIAL,http://f23.ub1400.com/live/1439/587eeb9fc50532e2d4222c26aa9bf4f3/index.m3u8
+Citra,http://f23.ub1400.com/live/1440/6e4a60045d5114449e1374f16854ba58/index.m3u8
+Fox_Action_Movies,http://f23.ub1400.com/live/1441/00a86f6526885198e5516ddee9779f1e/index.m3u8
+Fox_Family_Movies,http://f23.ub1400.com/live/1442/f4d829418ed75ac1956961d6a619267f/index.m3u8
+Fox_Movies,http://f23.ub1400.com/live/1443/8f63e10e28d0d1b3b93a4b74eec2eec1/index.m3u8
+Hua Hee Dai,http://f23.ub1400.com/live/1444/78c4451316cf40be57fda9d2fa3ca6f0/index.m3u8
+iQIYI,http://f23.ub1400.com/live/1445/b9947538b9e1477337d1afe0e376d901/index.m3u8
+KIX,http://f23.ub1400.com/live/1446/cbfed680c86c257067bb9c74386005c7/index.m3u8
+NTV7,http://f23.ub1400.com/live/1447/e4ee6f3ccff3b62545516fb5e6dffab5/index.m3u8
+PRIMA,http://f23.ub1400.com/live/1448/daa52995dd4cf7671389cb273d8ac031/index.m3u8
+Quan Jia,http://f23.ub1400.com/live/1449/7e87ab0e0d91ceeeca8b793854dc44e5/index.m3u8
+SCM,http://f23.ub1400.com/live/1450/a05f573be8b052fa02d51093b5b32c7b/index.m3u8
+sony_one,http://f23.ub1400.com/live/1451/ffa1a348154a2b0d0037bc0527a62a66/index.m3u8
+TV1,http://f23.ub1400.com/live/1452/ae3632c30c2276ae3a9468d20c42ef90/index.m3u8
+TV2,http://f23.ub1400.com/live/1453/b3203718743911ea4c5cf35ba24ddd04/index.m3u8
+TV3,http://f23.ub1400.com/live/1454/239413f18b9f4bbc419dc3dd752502ce/index.m3u8
+TV8,http://f23.ub1400.com/live/1455/72c3ac93a05a2d0a954b5d908d4215a3/index.m3u8
+TV9,http://f23.ub1400.com/live/1456/bfbf3433f1313c1692222a4a1d07d4fb/index.m3u8
+Channel8,http://f23.ub1400.com/live/142/924b95bc210e1f1fc4d05f128416024f/index.m3u8
+Channel5,http://f23.ub1400.com/live/141/ad48924fcf5c01238d8c893fd5bbdefd/index.m3u8
+ARENA_HD,http://f23.ub1400.com/live/1049/3c34ad3c23ec9c75edf44b1b2740f12e/index.m3u8
+AOD351,http://f23.ub1400.com/live/1050/4bf4657e30d3547e9ae7575d40d56f00/index.m3u8
+AOD352,http://f23.ub1400.com/live/450/d0270d14c4c0dfbe6e0f58a4f4707766/index.m3u8
+AOD353,http://f23.ub1400.com/live/1067/a57542e08c47758451fa65c1145df96d/index.m3u8
+AOD354,http://f23.ub1400.com/live/1068/426e16f56c3b6ca3a14369196d7b9f72/index.m3u8
+AOD355,http://f23.ub1400.com/live/1069/930623607b1f3fca6c34384b0bb04e09/index.m3u8
+ASSP1_HD,http://f23.ub1400.com/live/1070/7c5b71c0897778957c5169e01e13cc66/index.m3u8
+ASSP2_HD,http://f23.ub1400.com/live/1071/37b51beb317c6765a1ab56c0a80fa6aa/index.m3u8
+ASSP3_HD,http://f23.ub1400.com/live/1072/03a9ca87d721829328ccc06ba6c9eba0/index.m3u8
+ASSP4_HD,http://f23.ub1400.com/live/1074/75ec0b277e255d89d97c9bb1fa45f157/index.m3u8
+AEC,http://f23.ub1400.com/live/1073/de239959c7ae2463a8e2e75cdcd8a858/index.m3u8
+AFN,http://f23.ub1400.com/live/195/3b2a58281ec95ad9159ed3de089467d0/index.m3u8
+Channel U,http://f23.ub1400.com/live/1077/05f1f6a4967c120544d3d93f01a9f69d/index.m3u8
+Vasantham,http://f23.ub1400.com/live/1078/b4bcf8d53a6642f828634878b33a7038/index.m3u8
+TVB星河,http://f23.ub1400.com/live/1079/b1f1114e099395a1fae085a0d4a5b927/index.m3u8
+小太陽,http://f23.ub1400.com/live/1080/04abeca5f7ed5088faf8f262154ad416/index.m3u8
+WWE,http://f23.ub1400.com/live/1081/f26104504e090ffd3868b251f5a6591e/index.m3u8
+TVN MOVIE,http://f23.ub1400.com/live/1082/d1f21488e290d53eadedc4fe8a5297ea/index.m3u8
+TVB經典,http://f23.ub1400.com/live/1083/fd7cd5faae73b3e5d4d88f48fd14b32d/index.m3u8
+TVB Jade,http://f23.ub1400.com/live/1084/679d0ba01337ae81a2a66efcdb74a1da/index.m3u8
+衛視卡式臺,http://f23.ub1400.com/live/1085/62ca604fd5a0143591d2c42251f77e6c/index.m3u8
+雙星,http://f23.ub1400.com/live/1086/4268b343564e471ff74cf6b223611198/index.m3u8
+Suria,http://f23.ub1400.com/live/1076/8d052f2d8444960d6840c74c49a0b6d2/index.m3u8
+OKEY,http://f23.ub1400.com/live/1075/20c572d6365d0bd36ed0c5afb9f31af2/index.m3u8
+AWANI,http://f23.ub1400.com/live/1151/b684db56412ee745568a8dabd3c3cf80/index.m3u8
+AXN,http://f23.ub1400.com/live/1044/fc2d3b2a10ee2eb25fc37cdc7c5a7dc2/index.m3u8
+BNC,http://f23.ub1400.com/live/1045/c6d1cb7cbd48ae957ed5f59fbe62871e/index.m3u8
+LIGA,http://f02.pp12000.com/live/1332/b829607a20e4272a8d02bc981a977e12/index.m3u8
+CinemaOne,http://f02.pp12000.com/live/1333/b3e0f623272a3ece77201191cc4c57d7/index.m3u8
+SportsAction,http://f02.pp12000.com/live/1334/b3add5d9e94637d869731b2f39234849/index.m3u8
+Jeepney,http://f02.pp12000.com/live/1335/686cf3f6801758419b84d29ce50f397e/index.m3u8
+MYX,http://f02.pp12000.com/live/1336/e199277fb20e7d86636eb6c8190f47c7/index.m3u8
+GMA,http://f02.pp12000.com/live/1337/a3bcc9a38e1fb83bdf814bbda611ad86/index.m3u8
+TV5,http://f02.pp12000.com/live/1338/ae6d229e4568ee744cf0cebf6650ad4c/index.m3u8
+NEWS1,http://f23.ub1400.com/live/1608/fbb5a1eb4439671889df1c35fae7f4aa/index.m3u8
+NBT Central,http://f23.ub1400.com/live/1609/edf7048df27e136d1a24bb4fdb21847a/index.m3u8
+Thairath TV,http://f23.ub1400.com/live/1139/7f71d8545d1359d9e55f485c872985f9/index.m3u8
+Channel 8,http://f23.ub1400.com/live/1140/24efa53471571f15f5e18f50fff8f284/index.m3u8
+Chhannel 3,http://f23.ub1400.com/live/1138/e2db31e3b4e70b429b9decca1c63f76a/index.m3u8
+Thai PBS,http://f23.ub1400.com/live/1047/9a35bc361402b1be0b74f49b2b13eca6/index.m3u8
+TVRI,http://f20.ub1100.com/live/1473/8634f951cf059e737ce556a3fc886198/index.m3u8
+Rcti,http://f20.ub1100.com/live/1474/8676aa82bf4b0e83ca92cbc7e5b3ad04/index.m3u8
+Kompass,http://f20.ub1100.com/live/1475/138197c87a31fffe14f80f06663cdf5a/index.m3u8
+GlobalTV,http://f20.ub1100.com/live/1476/c3e03281325c5437195e891059ede335/index.m3u8
+BeritaSatu,http://f20.ub1100.com/live/1477/2515f1eb910a68d98aa003b816434af7/index.m3u8
+Indosiar,http://f20.ub1100.com/live/1478/8d2a916ede228cde8667669dfc5df2d0/index.m3u8
+Antv,http://f20.ub1100.com/live/1479/7aeec6ccd468a402a4cb0b48bb5a906e/index.m3u8
+TV9,http://f20.ub1100.com/live/1480/a330283e6df109dc0914582b10a043dc/index.m3u8
+Mnctv,http://f20.ub1100.com/live/1481/d4e78cf7b97f4433cee2b6b0e55cf954/index.m3u8
+Trans7,http://f20.ub1100.com/live/1482/2f414139871d6a7eb833b1ff53f1c6c1/index.m3u8
+Transtv,http://f20.ub1100.com/live/1483/46066cfa2c8bd00810e5c54985650bf0/index.m3u8
+JTV,http://f20.ub1100.com/live/1484/6fa432119311ae63c7c796e31c9b6701/index.m3u8
+Metrotv,http://f20.ub1100.com/live/1485/34d644c5c95f4ea448c61cd35dd117ae/index.m3u8
+Sctv,http://f20.ub1100.com/live/1486/d4d7fa15e4aa746f47bedee0508699d3/index.m3u8
+TVone,http://f20.ub1100.com/live/1487/1c57e63c918063202123e87f606de2eb/index.m3u8
+OChannel,http://f20.ub1100.com/live/1488/5436aabd7dadc45c982f72539ebb9ac1/index.m3u8
+Balitv,http://f20.ub1100.com/live/1489/5fddb38531f43ea50e26b337e0ea832f/index.m3u8
+TVMU,http://f20.ub1100.com/live/1490/249b45968e8962f1acf9269a3b98634a/index.m3u8
+PijarTV,http://f20.ub1100.com/live/1491/8175e1eced8e73faf31f4c79fb94df75/index.m3u8
+UTV,http://f20.ub1100.com/live/1492/8e2da5138e86d8a47cc238c2482378a7/index.m3u8
+MYTV,http://f20.ub1100.com/live/1493/281601cc9b50d103e21b6b98d7ad6b1e/index.m3u8
+KOMPAS TV,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609927164/ei/nDX1X_uGG5WZkwaQ6JnYDA/ip/198.255.103.15/id/gIB2egm7tL8.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-q4f7sn7l.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/3390/mh/uj/mm/44/mn/sn-q4f7sn7l/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/beids/9466587/mt/1609905141/sparams/expire
+Karaoke,http://f20.ub1100.com/live/1141/48b8221a0cc9d9251537973377ee35e3/index.m3u8
+Jakarta Globe,http://f20.ub1100.com/live/1142/f5b7ddc583dee510d20afa6cdb2a393c/index.m3u8
+CNN Indonesia,http://f20.ub1100.com/live/1145/671721fef179a9f13737a2b160f2e517/index.m3u8
+VTV1,http://f22.ub1300.com/live/1326/41e617ab96c60314bea1cf155ace88b7/index.m3u8
+VTV2,http://f22.ub1300.com/live/1327/eeef1143471ddbec156f61d2e2d2dcff/index.m3u8
+VTV4,http://f22.ub1300.com/live/1328/d9a40d15700230d87415b2dd7dcb249e/index.m3u8
+VTV7,http://f22.ub1300.com/live/1331/fd08a05ad02b5febd281cf732e6a8c04/index.m3u8
+THHN,http://f22.ub1300.com/live/1290/0c81ab839abd0c22f64af594b660f6b9/index.m3u8
+THGL,http://f22.ub1300.com/live/1292/f60e119413b050ca8495f92c687da5df/index.m3u8
+PTP,http://f22.ub1300.com/live/1293/7ff22133043c124a84b201d2a0e5a4f6/index.m3u8
+QRT,http://f22.ub1300.com/live/1294/fd6cd8aa12c4b24bb4a74a23668cd445/index.m3u8
+THBT,http://f22.ub1300.com/live/1295/ffaa0fcd46d5029c88b5cdebf83686d6/index.m3u8
+ANTV,http://f22.ub1300.com/live/1300/94120a937ea423ea5164e7b704ccac6a/index.m3u8
+ANTV HD,http://f22.ub1300.com/live/1301/de30732079838230da940a48904345f0/index.m3u8
+HBTV,http://f22.ub1300.com/live/1302/bc922b8cf760e4957d09a1299bcb9509/index.m3u8
+KienGiangTV,http://f22.ub1300.com/live/1309/bab8cd8111f5453051d35ab0d1e574ae/index.m3u8
+KienGiangTV1,http://f22.ub1300.com/live/1310/7a34bb68d40f673b95ff72a69c127ece/index.m3u8
+ANTV,http://f22.ub1300.com/live/1312/8cda23a566f9afa6b72732205b05c5cc/index.m3u8
+BenTreTV,http://f22.ub1300.com/live/1313/8d5d07fff14dd30f0bf67189091d8c25/index.m3u8
+Da Nang TV1,http://f22.ub1300.com/live/1316/435fc43a33f00086c1d17cbf7bf2e8b7/index.m3u8
+KhanhHoaTV,http://f22.ub1300.com/live/1318/a53fef9397026f4211abe3990a0972ed/index.m3u8
+KienGiangTV,http://f22.ub1300.com/live/1319/9f0d515e64a7a28c81711875bb89b4b6/index.m3u8
+KienGiangTV1,http://f22.ub1300.com/live/1320/feabca3e957060b64ced83e22de9366e/index.m3u8
+PhuYenTV,http://f22.ub1300.com/live/1323/ac1cd3707e41f73edcad908eb71e05fa/index.m3u8
+QuangNamTV,http://f22.ub1300.com/live/1324/9eb74bd0f5f32a5a6587f9fb6f7306ec/index.m3u8
+LongAnTV,http://f22.ub1300.com/live/1321/7718a326ec9ad58d45234659196221c0/index.m3u8
+LA34,http://f22.ub1300.com/live/1291/e9b753f73fd23f7c7f2092ecb644e72a/index.m3u8
+VITV,http://f22.ub1300.com/live/1299/dcdb09ad732b4866a7ff79e93d72b951/index.m3u8
+Sun TV,http://f23.ub1400.com/live/1458/dc64df7a0b83dd1ac187c6e3aaec935f/index.m3u8
+Star Vijay,http://f23.ub1400.com/live/1459/6255086d4ddcbcdf19212541c885b97c/index.m3u8
+Zee Tamil,http://f23.ub1400.com/live/1460/5b0c45090326578f78090109d9cdd094/index.m3u8
+Zee Business,http://f23.ub1400.com/live/1461/77b888d9153820ef463edb033a15fecf/index.m3u8
+Thanthi TV,http://f23.ub1400.com/live/1462/9c251273eec0e643e6a4246d6ec7abf2/index.m3u8
+Raj Musix,http://f23.ub1400.com/live/1463/ad3c8a89f484b4ec1320ca2e731b27a1/index.m3u8
+Zee Actions,http://f23.ub1400.com/live/1464/eed22cce9a50ac68661e0f7afb02873a/index.m3u8
+KTV Tamil,http://f23.ub1400.com/live/1465/e1fd68843db7c1d5f1d7374d7da33438/index.m3u8
+Zee TV HD,http://f23.ub1400.com/live/1466/ce7124386ac88c978033f252bcfdb040/index.m3u8
+Zee Cinema HD,http://f23.ub1400.com/live/1467/d9c950d5116e753a6c644332139f4706/index.m3u8
+Colors HD,http://f23.ub1400.com/live/1468/e43557779a7573896bb255a3159e09c9/index.m3u8
+Starplus,http://f23.ub1400.com/live/1469/853ef8c093d1a3d9cba6252bf693759c/index.m3u8
+Picture,http://f23.ub1400.com/live/1470/01dddaed4da420e8a842e59c573af0a1/index.m3u8
+Asianet,http://f23.ub1400.com/live/1471/925e314ce55d7d7629463dd221f2ac64/index.m3u8
+Times Now,http://f23.ub1400.com/live/1472/b93bdb47228a464aeaa7aa21e2be769d/index.m3u8
+CNN News 18,http://f23.ub1400.com/live/1051/8ba7fcf55498b6a304b9080885a3aea1/index.m3u8
+Tv9 Bharatvarsh,http://f23.ub1400.com/live/1125/ba00d07f7deb07c955223dc46b91c1c7/index.m3u8
+NDTV India,http://f23.ub1400.com/live/1030/be01e2928746b0168747d2d8ea7bdcfe/index.m3u8
+NDTV,http://f23.ub1400.com/live/1028/1ee8e023fcdc38528f3216d8dc79d936/index.m3u8
+ZeeNews,http://f23.ub1400.com/live/465/91e1be4962823eadb373397a637a14bd/index.m3u8
+松視1,http://f23.ub1400.com/live/402/3adfbdc90fb7bcf447aab015efe51b93/index.m3u8
+松視2,http://f23.ub1400.com/live/403/b741a128b1800642619013729d093847/index.m3u8
+松視3,http://f23.ub1400.com/live/404/9e0e949eadda1be5504aed04b804d1f6/index.m3u8
+香蕉台,http://f23.ub1400.com/live/408/79a7b8df519c4a2ac9103d3464db98b6/index.m3u8
+潘朵拉完美,http://f23.ub1400.com/live/410/3e4b2ce29419a87787d63a8bef3003e4/index.m3u8
+潘朵拉粉紅,http://f23.ub1400.com/live/411/5166fff6766aa0f5d4b44f3c67a32f7f/index.m3u8
+彩虹電影,http://f23.ub1400.com/live/413/ea579c4be35a8b35b248b67ad12e44d4/index.m3u8
+彩虹K,http://f23.ub1400.com/live/406/a28e1c22b60dd539f86eadb65794b82b/index.m3u8
+彩虹E,http://f23.ub1400.com/live/405/dfb5dbd2f84ee0f797af14415fd35f96/index.m3u8
+一本道,http://f23.ub1400.com/live/414/abc1736266c1f2304330d72645299bf0/index.m3u8
+二本道,http://f23.ub1400.com/live/415/0a4e3b92d6928da316ce3e07e7e69014/index.m3u8
+東京熱,http://f23.ub1400.com/live/416/605a87f1c991ed44d2dd72cdfd3aa56e/index.m3u8
+HOT,http://f23.ub1400.com/live/407/830ae3ba4efff194b6b2ef110d4d88c0/index.m3u8
+happy,http://f23.ub1400.com/live/412/347357b3436cef0a754b15a27eed44eb/index.m3u8
+驚豔台,http://f23.ub1400.com/live/409/edabb0e695e6bfa9ccbb28b22b4898a5/index.m3u8
+Erox HD,http://f23.ub1400.com/live/456/cdc6980efdf02cff69fcb8e6000477a3/index.m3u8
+Dorcel HD,http://f23.ub1400.com/live/454/02f6beb6b362370b83a1a62dd43d94e0/index.m3u8
+Babes TV HD,http://f23.ub1400.com/live/458/5c947f19c47e93233ba20fa6761b22ce/index.m3u8
+Hustler HD,http://f23.ub1400.com/live/451/68af30f90eff10ef94d38d9262bc809e/index.m3u8
+SCT Classic,http://f23.ub1400.com/live/462/042a826d5f6d3a2aba3e14cc65136c24/index.m3u8
+Redlight HD,http://f23.ub1400.com/live/452/b223a0abfaad7e4e2010411a4d0e7855/index.m3u8
+SEX ATION HD,http://f23.ub1400.com/live/459/ed918efbb35c8c601d1e765d0c9bc149/index.m3u8
+Super One HD,http://f23.ub1400.com/live/457/d9049a7dd31e854e586c730bab36078c/index.m3u8
+Pr?vate TV,http://f23.ub1400.com/live/453/d866d020bc82309cc0122b368e92e324/index.m3u8
+Passie,http://f23.ub1400.com/live/461/0fd8a74322fee3c712d106520c1f6079/index.m3u8
+Vivid Red HD,http://f23.ub1400.com/live/455/616facc8d2b6b0203a356170d34073e4/index.m3u8
